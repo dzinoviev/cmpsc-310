@@ -1,0 +1,1560 @@
+{
+    "count": {
+        "references": {
+            "total": 11,
+            "returned": 11
+        }
+    },
+    "status": "SUCCESS",
+    "entities": {
+        "XvML6": {
+            "hits": 199,
+            "type": "Person",
+            "name": "Takuya Kamata",
+            "momentum": 0.00029692604283382843
+        },
+        "DJd38": {
+            "hits": 699,
+            "type": "Company",
+            "name": "Strabag SE",
+            "momentum": 0.00038166624000189695,
+            "external_links": {
+                "wikipedia": {
+                    "id": "Strabag_SE"
+                },
+                "bloomberg": {
+                    "id": [
+                        "EQ0000000004675761"
+                    ]
+                }
+            }
+        },
+        "JzLg4w": {
+            "hits": 0,
+            "name": "Toshkent Shahri",
+            "pos": {
+                "latitude": 41.333329999999997,
+                "longitude": 69.25
+            },
+            "alias": [
+                "Toshkent",
+                "Gorod Tashkent",
+                "Toshkent Shahri"
+            ],
+            "momentum": 0.0,
+            "type": "ProvinceOrState",
+            "containers": [
+                "B_Mbq",
+                "B_Fa4"
+            ]
+        },
+        "B_G4a": {
+            "hits": 2543,
+            "type": "Company",
+            "name": "World Bank Country",
+            "momentum": 0.0015266069626914938
+        },
+        "B_Giu": {
+            "hits": 957829,
+            "type": "Position",
+            "name": "Manager",
+            "momentum": 0.12885942394484981
+        },
+        "B_FAG": {
+            "hits": 64886339,
+            "name": "United States",
+            "pos": {
+                "latitude": 39.759999999999998,
+                "longitude": -98.5
+            },
+            "alias": [
+                "Amerihka Ovttastuvvan Stahtat",
+                "Stadou-Unanet",
+                "Ameerika Ühendriigid",
+                "アメリカ合衆国",
+                "Jungtines Amerikos Valstijos",
+                "Verenigde State van Amerika",
+                "الاولايات المتحدة الامريكية",
+                "Злучаныя Штаты",
+                "Sjedinjene Americke Drzave",
+                "ଯୁକ୍ତ ରାଷ୍ଟ୍ର ଆମେରିକା",
+                "Amerika Birləşmiş Ştatları",
+                "ཡུ་ནའིཊེཊ་སི་ཊེསི",
+                "Etazonia",
+                "Amerika Birləsmis Statları",
+                "ಅಮೇರಿಕಾ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ",
+                "सयकत राजय अमरिका",
+                "ಅಮೕರಕಾ ಸಂಯುಕತ ಸಂಸಥಾನ",
+                "សហរដឋអាមេរក",
+                "එක්සත් ජනපදය",
+                "ამერიკის შეერთებული შტატები",
+                "الولايات المتحدة الأمريكية",
+                "Jungtinės Valstijos US",
+                "Ամէրիկայի Միացյալ Նահանգնէր",
+                "Spojene staty",
+                "संयुक्त राज्य",
+                "Statos Unite",
+                "U.S.A.",
+                "එකසත ජනපදය",
+                "Naalagaaffeqatigiit",
+                "ꂰꇩ",
+                "U.S.",
+                "Amurka",
+                "Злучаныя Штаты Амерыкі",
+                "አሜሪካ",
+                "Amerika Syarikat",
+                "សហរដ្ឋអាមេរិក",
+                "Zdruzene drzave Amerike",
+                "สหรฐอเมรกา",
+                "Dowlaaji Dentuɗi Amerik",
+                "Bandariki Norður-Ameriku",
+                "संयुक्त राज्य अमरिका",
+                "United States",
+                "Amerika Serikat",
+                "ສະຫະລັດອາເມລິກາ",
+                "Amerika Birleşik Devletleri",
+                "Ηνωμενες Πολιτειες της Αμερικης",
+                "Shtetet e Bashkuara të Amerikës",
+                "Spojene staty americke",
+                "Sjedinjene Države",
+                "যুক্তৰাষ্ট্ৰ",
+                "Stany Zjednoczone",
+                "Spojené štáty americké",
+                "Usono",
+                "ZDA",
+                "Сједињене Америчке Државе",
+                "Stati Uniti",
+                "Amelika",
+                "അമേരികകന‍ ഐകയനാടകള‍",
+                "Jungtines Valstijos US",
+                "ایالات متحدهٔ امریکا",
+                "Съединени щати",
+                "Orileede Orileede Amerika",
+                "Ameriketako Estatu Batuak",
+                "Amerikas Forenede Stater",
+                "ཡ་ནའཊཊ་ས་ཊས",
+                "Spojené státy americké",
+                "ཨ་མ་ར་ཀ་",
+                "सयकत राजय",
+                "Stadis Unids da l'America",
+                "Америкиин Нэгдсэн Улс",
+                "ארצות הברית",
+                "Сполучені Штати Америки",
+                "Сједињене Државе",
+                "ஐக்கிய அமெரிக்க குடியரசு",
+                "ABD",
+                "USA",
+                "ریاستہايے متحدہ",
+                "Estats Units",
+                "Egyesult Allamok",
+                "Amerika Birlesik Devletleri",
+                "Estados Unidos de America",
+                "ALeaa-Oko ti Amerika",
+                "Bandaríkin",
+                "মারকিন যকতরাষটর",
+                "Statys Unys",
+                "Egyesült Államok",
+                "അമേരിക്കന്‍ ഐക്യനാടുകള്‍",
+                "Ameerika Uhendriigid",
+                "ယူနိုက်တက်စတိတ်",
+                "ཨ་མེ་རི་ཀ་",
+                "i-United States",
+                "الولايات المتحدة الامريكية",
+                "Hoa Ky",
+                "Spojené štáty",
+                "Orílẹ́ède Orilẹede Amerika",
+                "United States of America",
+                "Yr Unol Daleithiau",
+                "Marekani",
+                "США",
+                "Stait Aontaithe Mheiricea",
+                "Etats-Unis",
+                "Shtetet e Bashkuara te Amerikes",
+                "Yhdysvallat",
+                "АҚШ",
+                "संयुक्त राज्य अमेरिका",
+                "Jungtinės Amerikos Valstijos",
+                "Միացյալ Նահանգներ",
+                "Stadoù-Unanet",
+                "Sjedinjene Drzave",
+                "Amerihká Ovttastuvvan Stáhtat",
+                "ယနကတကစတတ",
+                "Združene države Amerike",
+                "Қушма Штатлар",
+                "Соединенные Штаты",
+                "Amerikas forente stater",
+                "Statele Unite ale Americii",
+                "Stáit Aontaithe Mheiriceá",
+                "ສະຫະລດອາເມລກາ",
+                "미국",
+                "Ameriki",
+                "సంయుకత రజయ అమరక",
+                "USA nutome",
+                "ÂLeaa-Ôko tî Amerika",
+                "Соединети Американски Држави",
+                "Estados Unidos",
+                "Sambandsríki Amerika",
+                "Қўшма Штатлар",
+                "Amerika",
+                "Amerikas Savienotās Valstis",
+                "মার্কিন যুক্তরাষ্ট্র",
+                "Verenigde Staten",
+                "États-Unis",
+                "Leta Zunze Ubumwe za Amerika",
+                "సంయుక్త రాజ్య అమెరికా",
+                "Maraykanka",
+                "美国",
+                "Amɛrika",
+                "Sjedinjene Američke Države",
+                "Statele Unite",
+                "Puleʻanga fakatahataha ʻAmelika",
+                "สหรัฐอเมริกา",
+                "ஐககிய அமெரிகக குடியரசு",
+                "Hoa Kỳ",
+                "Bandarikin",
+                "ایالات متحده",
+                "Amerikas Forenta Stater",
+                "Amerikas Savienotas Valstis",
+                "وڵاتە یەکگرتووەکان",
+                "ଯକତ ରାଷଟର ଆମେରକା",
+                "미국",
+                "America",
+                "ایالات متحده امریکا",
+                "Estados Unidos de América",
+                "САЩ",
+                "Bandaríki Norður-Ameríku",
+                "যকতৰাষটৰ",
+                "Vereinigte Staaten",
+                "Sambandsriki Amerika",
+                "ریاستہائے متحدہ",
+                "Ηνωμένες Πολιτείες της Αμερικής",
+                "Spojené státy",
+                "Estatu Batuak",
+                "Америкийн Нэгдсэн Улс",
+                "Amerikas Förenta Stater"
+            ],
+            "momentum": 1.0,
+            "longname": "United States",
+            "type": "Country",
+            "containers": [
+                "B_GRZ"
+            ],
+            "external_links": {
+                "wikipedia": {
+                    "id": "United_States"
+                }
+            }
+        },
+        "I2Eug0": {
+            "hits": 1006,
+            "name": "Taraz",
+            "pos": {
+                "latitude": 42.899999999999999,
+                "longitude": 71.366669999999999
+            },
+            "alias": [
+                "Taraz",
+                "Dzhambul",
+                "Jambul",
+                "Auliye-Ata",
+                "Taras",
+                "Жамбыл облысы",
+                "Тараз",
+                "Zhambyl",
+                "Talas"
+            ],
+            "momentum": 0.00096609535634731021,
+            "longname": "Taraz,Kazakhstan",
+            "type": "City",
+            "containers": [
+                "I6JEKt",
+                "B_G2K",
+                "B_Fa4"
+            ],
+            "external_links": {
+                "wikipedia": {
+                    "id": "Taraz"
+                }
+            }
+        },
+        "I6JEKt": {
+            "hits": 26,
+            "name": "Zhambyl Province",
+            "pos": {
+                "latitude": 44.0,
+                "longitude": 72.0
+            },
+            "alias": [
+                "Zhambylskaya Oblast’",
+                "Zhambyl",
+                "Zhambyl Oblysy",
+                "Dzhambulskaya Oblast’",
+                "Dzhambul Oblast"
+            ],
+            "momentum": 0.0013790615943197312,
+            "longname": "Zhambyl Province,Kazakhstan",
+            "type": "ProvinceOrState",
+            "containers": [
+                "B_G2K",
+                "B_Fa4"
+            ],
+            "external_links": {
+                "wikipedia": {
+                    "id": "Jambyl_Province"
+                }
+            }
+        },
+        "CEDHD": {
+            "hits": 3516,
+            "type": "Organization",
+            "name": "Uzbek government",
+            "momentum": 0.00098148944634584429,
+            "external_links": {
+                "wikipedia": {
+                    "id": "Uzbek_government"
+                }
+            }
+        },
+        "I2EnW2": {
+            "hits": 7222128,
+            "name": "Washington",
+            "pos": {
+                "latitude": 38.895110000000003,
+                "longitude": -77.036370000000005
+            },
+            "alias": [
+                "Ουάσιγκτον",
+                "Washington DC",
+                "Washington",
+                "Ουασιγκτον",
+                "Washington, D. C.",
+                "Washington D.C.",
+                "Waszyngton",
+                "Вашингтон",
+                "WAS",
+                "Vasingtonia"
+            ],
+            "momentum": 0.66897885730285156,
+            "longname": "Washington,United States",
+            "type": "City",
+            "containers": [
+                "B_GRZ",
+                "B_Myl",
+                "B_FAG"
+            ],
+            "external_links": {
+                "wikipedia": {
+                    "id": "Washington%2C_D.C."
+                }
+            }
+        },
+        "Ff0bt": {
+            "hits": 441,
+            "type": "Person",
+            "name": "Abdulaziz Kamilov",
+            "momentum": 0.00026666213237152772,
+            "external_links": {
+                "wikipedia": {
+                    "id": "Abdulaziz_Kamilov"
+                }
+            }
+        },
+        "B_FCl": {
+            "artificial_hits": 1,
+            "hits": 20154800,
+            "type": "Position",
+            "name": "President",
+            "momentum": 0.99999481330491025
+        },
+        "I2EofE": {
+            "hits": 31782,
+            "name": "Tashkent",
+            "pos": {
+                "latitude": 41.264650000000003,
+                "longitude": 69.216269999999994
+            },
+            "alias": [
+                "طشقند",
+                "ทาชเคนต",
+                "Τασκένδη",
+                "타슈켄트",
+                "تاشكەنت",
+                "Tasjkent",
+                "Ташкент",
+                "ทาชเคนต์",
+                "Taškent",
+                "Taszkent",
+                "Τασκενδη",
+                "Taşkent",
+                "Тошканд",
+                "Taškentas",
+                "טשקנט",
+                "Tashkent",
+                "Toshkent",
+                "ታሽኬንት",
+                "Taskent",
+                "Toshkent shahri",
+                "Taŝkento",
+                "Tashkend",
+                "Taschkent",
+                "ტაშკენტი",
+                "TAS",
+                "타슈켄트",
+                "تاشکند",
+                "Ta.kent",
+                "Tachkent",
+                "タシュケント",
+                "塔什干",
+                "Taskentas",
+                "Taskento",
+                "Ташкен"
+            ],
+            "momentum": 0.012392096197625081,
+            "longname": "Tashkent,Toshkent Province,Uzbekistan",
+            "type": "City",
+            "containers": [
+                "JzLg4w",
+                "B_Fa4",
+                "B_Mbq"
+            ],
+            "external_links": {
+                "wikipedia": {
+                    "id": "Tashkent"
+                }
+            }
+        },
+        "CfJ4o": {
+            "hits": 220442,
+            "type": "Organization",
+            "name": "CPS",
+            "momentum": 0.0050770960512737358,
+            "external_links": {
+                "wikipedia": {
+                    "id": "CPS"
+                }
+            }
+        },
+        "B_G2K": {
+            "hits": 515999,
+            "name": "Kazakhstan",
+            "pos": {
+                "latitude": 48.0,
+                "longitude": 68.0
+            },
+            "alias": [
+                "Kazakisitá",
+                "Pow Kasagh",
+                "Kasakistan",
+                "Gazagystan",
+                "Қазақстан",
+                "Kasakistän",
+                "கஸகஸதான",
+                "カサフスタン",
+                "i-Kazakhstan",
+                "ಕಝಾಕಸಥಾನ",
+                "Casaquistao",
+                "Qazaxıstan",
+                "କାଜାକାସଥାନ",
+                "Kazajstán",
+                "കസാഖിസഥാന‍",
+                "কাজাখাসতান",
+                "Kazakhistán",
+                "قزاخستان",
+                "Kazakisitaan",
+                "कझाकसतान",
+                "കസാഖിസ്ഥാന്‍",
+                "कजाखस्तान",
+                "Casaquistão",
+                "Kazaxstan",
+                "Qazaqstan Respūblīkasy",
+                "Kazakisitäan",
+                "Kazacstan",
+                "ကာဇက်စတန်",
+                "कजाकसथान",
+                "Kazahstana",
+                "Kazakusita",
+                "Kasaakhistaan",
+                "Kazajistan",
+                "Casachia",
+                "カザフスタン",
+                "Kazachstan",
+                "Republic of Kazakhstan",
+                "ყაზახეთი",
+                "Казаџстан",
+                "Kazakistaŋ",
+                "Kazakstan",
+                "Kazahstano",
+                "Хъазахстан",
+                "काजाकसथान",
+                "ကာဇကစတန",
+                "काजाकस्थान",
+                "কাজাখাস্তান",
+                "Kasahstan",
+                "ຄາຊດສະຖານ",
+                "កាហសាកសតាង",
+                "కజకిస్తాన్",
+                "Kazahstan",
+                "Kazakisitaani",
+                "कज़ाकस्तान",
+                "कस़ाख़िस्तान",
+                "Kazachstanas",
+                "Kasakstaan",
+                "కజఖసతన",
+                "คาซัคสถาน",
+                "An Chasacstáin",
+                "Καζακστάν",
+                "Kazahsztan",
+                "Casaquistán - Қазақстан",
+                "קזחסטן",
+                "كازاخستان",
+                "Kazachija",
+                "Kasakstan",
+                "Respublika Kazakhstan",
+                "កាហ្សាក់ស្តាង់់",
+                "Казакстан Республикасы",
+                "कझाकस्तान",
+                "Kazac'hstan",
+                "कजाखसतान",
+                "కజకసతన",
+                "ಕಝಾಕಿಸ್ಥಾನ್",
+                "కజాఖస్తాన్",
+                "কাজাকসথান",
+                "Cazaquistão",
+                "Ka-dắc-xtan",
+                "Kasakhstan",
+                "Kazakisita",
+                "Kasajstán",
+                "Casaquistan - Қазақстан",
+                "哈萨克斯坦",
+                "ཁ་ཛག་སན།",
+                "คาซคสถาน",
+                "કઝાકિસતાન",
+                "Qazaqstan Respublikasy",
+                "ຄາຊັດສະຖານ",
+                "Casacstan",
+                "ประเทศคาซคสถาน",
+                "Kazakistan",
+                "Kazahstāna",
+                "Kazaĥio",
+                "قزاقستان",
+                "Kasakhstani",
+                "קאזאקסטאן",
+                "Cazaquistao",
+                "Қазоқистон",
+                "Kasachstan",
+                "Kazaĥstano",
+                "Qazaqstan",
+                "Orileede Kasasatani",
+                "কাজাকস্থান",
+                "કઝાકિસ્તાન",
+                "Cazacstan",
+                "Καζακσταν",
+                "कजाकसतान",
+                "ཁ་ཛཱག་སྟཱན།",
+                "Kasakiteni",
+                "Kazakhistan",
+                "Qozogʻiston",
+                "Orílẹ́ède Kaṣaṣatani",
+                "قازاقسىتان",
+                "Kazahsztán",
+                "کازاخستان",
+                "Każakstan",
+                "Kazakstan nutome",
+                "カザフスタン共和国",
+                "Kasahistan",
+                "Kazakisitani",
+                "カサフスタン共和国",
+                "Qezexistan",
+                "قازقستان",
+                "କାଜାକାସ୍ଥାନ୍",
+                "Ղազախստան",
+                "קזחסטאן",
+                "ካዛኪስታን",
+                "Kazahio",
+                "קזאחסטאן",
+                "Kasajstan",
+                "ประเทศคาซัคสถาน",
+                "Kazakh Soviet Socialist Republic",
+                "कजाकस्थान",
+                "Ka-dac-xtan",
+                "카자흐스탄",
+                "Kazajistán",
+                "Kazakistani",
+                "Kazajstan",
+                "कसाखिसतान",
+                "Казахстан",
+                "Kazakhskaya Sovetskaya Sotsialisticheskaya Respublika",
+                "קאַזאַקסטאַן",
+                "Kazakhstan",
+                "Kazachstán",
+                "카자흐스탄",
+                "An Chasacstain",
+                "கஸகஸ்தான்"
+            ],
+            "momentum": 0.01998026857138312,
+            "type": "Country",
+            "containers": [
+                "B_Fa4"
+            ],
+            "external_links": {
+                "wikipedia": {
+                    "id": "Kazakhstan"
+                }
+            }
+        },
+        "I541os": {
+            "hits": 4,
+            "type": "Position",
+            "name": "Manager for Uzbekistan",
+            "momentum": 0.0,
+            "longname": "Manager for Uzbekistan"
+        },
+        "B_Fa4": {
+            "hits": 3295089,
+            "name": "Asia",
+            "pos": {
+                "latitude": 29.84064,
+                "longitude": 89.296880000000002
+            },
+            "alias": [
+                "Aasia",
+                "Àsia",
+                "Azsia",
+                "एशिया महादवीप",
+                "Ασια",
+                "an Áise",
+                "Azja",
+                "Ázsia",
+                "Asya",
+                "آسيا",
+                "アジア",
+                "Asie",
+                "Ásia",
+                "Asia",
+                "Āzija",
+                "एशिया महाद्वीप",
+                "Azio",
+                "Ασία",
+                "Chau A",
+                "アシア",
+                "Азия",
+                "Châu Á",
+                "اسيا",
+                "Azie",
+                "Azië",
+                "Asien",
+                "เอเชย",
+                "เอเชีย",
+                "亚洲",
+                "Asía",
+                "Azija",
+                "an Aise",
+                "Азія",
+                "אסיה"
+            ],
+            "external_links": {
+                "wikipedia": {
+                    "id": "Asia"
+                }
+            },
+            "type": "Continent",
+            "momentum": 0.23052120300990583
+        },
+        "B_Mbq": {
+            "hits": 208732,
+            "name": "Uzbekistan",
+            "pos": {
+                "latitude": 41.707540000000002,
+                "longitude": 63.849110000000003
+            },
+            "alias": [
+                "Usbekistan",
+                "Узбекістан",
+                "Uzbek Soviet Socialist Republic",
+                "Üzbegisztán",
+                "Usbequistán",
+                "Uzubekistan",
+                "Uzbequistao",
+                "Uzbɛkistan",
+                "Usbekistaan",
+                "Uzbequistan",
+                "អហសបេគសតង",
+                "ཨཛ་བ་ཀས་ཏན",
+                "Uzbekistaan",
+                "اوزبكستان",
+                "Úisbéiceastáin",
+                "Uusbakistaan",
+                "Wsbecistan",
+                "อุซเบกิสถาน",
+                "Oezbekistan",
+                "উজ্বেকিস্থান",
+                "Oesbekistan",
+                "उझबकिसतान",
+                "Uzbekistan",
+                "উজবেকিস্তান",
+                "ອດເບກສະຖານ",
+                "U-do-be-ki-xtan",
+                "Ûzbêkistan",
+                "উজবেকিসথান",
+                "ウズベキスタン共和国",
+                "אוזבעקיסטאן",
+                "Orileede Nsibekisitani",
+                "Uzibɛkisita",
+                "ʻUsipekiteni",
+                "Ўзбекистон",
+                "ประเทศอซเบกสถาน",
+                "ازبکستان",
+                "ઉઝબકિસતાન",
+                "ཨུཛ་བེ་ཀིསི་ཏཱན",
+                "ઉઝ્બેકિસ્તાન",
+                "អ៊ូហ្សបេគីស្តង់",
+                "Uzbekio",
+                "Pow Ousbek",
+                "Uzebekisitani",
+                "ཨཛ་བ་ཀསན།",
+                "Узбэкістан",
+                "Ouzbékistan",
+                "Uzibekistani",
+                "Wuzibekisitaani",
+                "Uzbekistäan",
+                "Użbekistan",
+                "उजबकिसतान",
+                "אוזבקיסטאן",
+                "उजबकिसथान",
+                "أوزبكستان",
+                "उजबेकिस्तान",
+                "ウスヘキスタン共和国",
+                "우즈베키스탄",
+                "Ӳспекстан",
+                "Uzbekija",
+                "Uzbekskaya Sovetskaya Sotsialisticheskaya Respublika",
+                "Узбакистон",
+                "Uisbeiceastain",
+                "Uzbequistão",
+                "ອຸດເບກິສະຖານ",
+                "乌兹别克斯坦",
+                "ಉಜಬೕಕಸಥಾನ",
+                "Ozbəkistan",
+                "Uzbegisztan",
+                "उझबेकिस्तान",
+                "Узбекистан",
+                "ఉజ్బెకిస్తాన్",
+                "ประเทศอุซเบกิสถาน",
+                "ଉଜବେକିସ୍ଥାନ୍",
+                "Uzbekistan nutome",
+                "உஸபெகிஸதான",
+                "ウスヘキスタン",
+                "ଉଜବେକସଥାନ",
+                "ಉಜ್ಬೇಕಿಸ್ಥಾನ್",
+                "Успекстан",
+                "उज़्बेकिस्तान",
+                "Ouzbekistan",
+                "Ουζμπεκιστάν",
+                "אוזבקיסטן",
+                "Ուզբեկիստան",
+                "ഉസബെകകിസഥാന‍",
+                "ఉజబకసతన",
+                "Úsbekistan",
+                "ʻUsipekitēni",
+                "Uzbekiston Respublikasi",
+                "อซเบกสถาน",
+                "Ուզբեկստան",
+                "උස්බෙකිස්ථානය",
+                "Orílẹ́ède Nṣibẹkisitani",
+                "Үзбәкстан",
+                "U-dơ-bê-ki-xtan",
+                "Uzbequistán",
+                "Uzbekistán",
+                "ウズベキスタン",
+                "Lusbekän",
+                "Uzbekistani",
+                "ئۆزبېكىستان",
+                "i-Uzbekistan",
+                "يوزبەکستان",
+                "Usbequistan",
+                "উজবেকিসতান",
+                "Lusbekan",
+                "Uzbekistana",
+                "Ozbèquistan",
+                "ازبكستان",
+                "Ӯзбакистон",
+                "ဥဘက်ကစ္စတန်",
+                "ዩዝበኪስታን",
+                "يۆزبېكىستان",
+                "Uzibɛkisitá",
+                "Uzbekujo",
+                "उज्बेकिस्तान",
+                "L’Uzbekistan",
+                "Oʻzbekiston",
+                "Uzibekisita",
+                "اوزبکستان",
+                "Ŭzbekiston Respublikasi",
+                "Uzbekistāna",
+                "Ozbekistan",
+                "උසබෙකසථානය",
+                "Өзбекстан",
+                "உஸ்பெகிஸ்தான்",
+                "Ozbequistan",
+                "Özbekistan",
+                "Uzubekisitani",
+                "Uzbecia",
+                "O’zbekiston",
+                "Ουζμπεκισταν",
+                "Узбекистон",
+                "უზბეკეთი",
+                "Republic of Uzbekistan",
+                "უზბაკეთი",
+                "Uzbekistanas",
+                "우즈베키스탄",
+                "ഉസ്ബെക്കിസ്ഥാന്‍",
+                "ဥဘကကစစတန",
+                "ཨུཛ་བེ་ཀིསྟཱན།",
+                "Özbəkistan",
+                "ئوزبەکستان",
+                "उजबेकिस्थान"
+            ],
+            "momentum": 0.0056019860240058552,
+            "type": "Country",
+            "containers": [
+                "B_Fa4"
+            ],
+            "external_links": {
+                "wikipedia": {
+                    "id": "Uzbekistan"
+                }
+            }
+        },
+        "CCkoe": {
+            "hits": 9432,
+            "type": "IndustryTerm",
+            "name": "retail industries",
+            "momentum": 0.0030185597810919048
+        },
+        "B_Myl": {
+            "hits": 717997,
+            "name": "District of Columbia",
+            "pos": {
+                "latitude": 38.917059999999999,
+                "longitude": -77.000249999999994
+            },
+            "alias": [
+                "District of Columbia",
+                "Washington DC",
+                "Округ Колумбия",
+                "Distrito de Columbia",
+                "Washington, D.C.",
+                "Washington D.C.",
+                "DC",
+                "D.C."
+            ],
+            "momentum": 0.059195462415418156,
+            "type": "ProvinceOrState",
+            "containers": [
+                "B_GRZ",
+                "B_FAG"
+            ],
+            "external_links": {
+                "wikipedia": {
+                    "id": "Washington,_D.C."
+                }
+            }
+        },
+        "bfkGe": {
+            "hits": 11216,
+            "name": "Islam Karimov",
+            "external_links": {
+                "wikipedia": {
+                    "id": "Islam_Karimov"
+                }
+            },
+            "birth": "1938-01-30",
+            "type": "Person",
+            "momentum": 0.00085511070986914964
+        },
+        "GLQDb": {
+            "hits": 9,
+            "type": "Position",
+            "name": "Ambassador of Uzbekistan",
+            "momentum": 0.0015376552860226691
+        },
+        "B_GRZ": {
+            "hits": 1817484,
+            "name": "North America",
+            "pos": {
+                "latitude": 46.073230000000002,
+                "longitude": -100.54688
+            },
+            "alias": [
+                "Norteamerica",
+                "América do Norte",
+                "Северна Америка",
+                "Amérique du Nord",
+                "شمالی امریکہ",
+                "Bac My",
+                "Norður-Ameríka",
+                "America settentrionale",
+                "Abya Yala",
+                "Amèrica del Nord",
+                "Severni Amerika",
+                "Nordamerika",
+                "Meiriceá Thuaidh",
+                "Βορεια Αμερικη",
+                "North America",
+                "Nordameriko",
+                "उत्तरी अमरीका",
+                "北美洲",
+                "Norður-Amerika",
+                "Noord-Amerika",
+                "Meiricea Thuaidh",
+                "Siaures Amerika",
+                "امريكا الشمالية",
+                "Северная Америка",
+                "Šiaurės Amerika",
+                "Pohjois-Amerikka",
+                "Bắc Mỹ",
+                "उततरी अमरीका",
+                "Kuzey Amerika",
+                "Eszak-Amerika",
+                "Ameryka Północna",
+                "Sjeverna Amerika",
+                "America del Norte",
+                "América Septentrional",
+                "อเมรกาเหนอ",
+                "Amerique du Nord",
+                "Severní Amerika",
+                "America Septentrional",
+                "Βόρεια Αμερική",
+                "Ziemelamerika",
+                "Ameryka Połnocna",
+                "Amerika Utara",
+                "Gogledd America",
+                "อเมริกาเหนือ",
+                "America del Nord",
+                "Davvi-Amerihkka",
+                "北アメリカ",
+                "Észak-Amerika",
+                "America do Norte",
+                "أمريكا الشمالية",
+                "Північна Америка",
+                "אמריקה הצפונית",
+                "Ziemeļamerika",
+                "América del Norte",
+                "Nord-Amerika",
+                "Davvi-Amerihkká",
+                "Norteamérica"
+            ],
+            "type": "Continent",
+            "momentum": 0.10942167476438359
+        }
+    },
+    "instances": [
+        {
+            "cluster_ids": [
+                "G7oSFizN0di",
+                "Cc6udosa2RB"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Gymboree gets rid of Uzbek cotton picked by kids. Who’s next?",
+                "url": "http://www.neweurasia.net/business-and-economics/gymboree-gets-rid-of-uzbek-cotton-picked-by-kids-whos-next/",
+                "downloaded": "2011-05-26T14:18:23.000Z",
+                "published": "2011-05-26T13:32:16.000Z",
+                "indexed": "2011-05-26T13:32:16.000Z",
+                "id": "HvUa3"
+            },
+            "tagged_fragment": "<t>In August, 2008</t> a coalition of the four trade associations ... delivered a letter addressed to <e id=B_Mbq>Uzbekistan</e> <e id=B_FCl>President</e> <e id=bfkGe>Islam Karimov</e> to <e id=GLQDb>Ambassador of <e id=B_Mbq>Uzbekistan</e></e> <e id=Ff0bt>Abdulaziz Kamilov</e> in <e id=I2EnW2>Washington, DC.</e> The group urged the <e id=CEDHD>government</e>",
+            "fragment": "In August, 2008 a coalition of the four trade associations representing the U.S. apparel and retail industries hand-delivered a letter addressed to Uzbekistan President Islam Karimov to Ambassador of Uzbekistan Abdulaziz Kamilov in Washington, DC. The group urged the government of Uzbekistan to take decisive and immediate actions to end the use of forced child labor in its cotton fields.",
+            "time_fragment": "In August, 2008",
+            "stop": "2008-08-31T23:59:59.000Z",
+            "item_fragment": "In August, 2008 a coalition of the four trade associations representing the U.S. apparel and retail industries hand-delivered a letter addressed to Uzbekistan President Islam Karimov to Ambassador of Uzbekistan Abdulaziz Kamilov in Washington, DC. The group urged the government of Uzbekistan to take decisive and immediate actions to end the use of forced child labor in its cotton fields.",
+            "precision": "month",
+            "start": "2008-08-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNoJbgANAO8",
+                "hits": 0,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entities": [
+                    "bfkGe",
+                    "GLQDb",
+                    "I2EnW2",
+                    "Ff0bt",
+                    "B_FAG",
+                    "CEDHD",
+                    "B_FCl",
+                    "B_Mbq",
+                    "CCkoe"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "xEpIT_DKTR",
+                "inherited_locations": [
+                    "I2EnW2",
+                    "B_FAG",
+                    "B_Mbq"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Labor"
+            },
+            "time_type": "in",
+            "type": "CoOccurrence",
+            "id": "GNoJbgANAO8",
+            "momentum": 0.0,
+            "time_fragment_context": "In August, 2008 a coalition of the four trade associations representing the U.S. apparel and retail industries hand-delivered a letter addressed to Uzbekistan President Islam Karimov to Ambassador of Uzbekistan Abdulaziz Kamilov in Washington, DC. The group urged the government of Uzbekistan to take decisive and immediate actions to end the use of forced child labor in its cotton fields."
+        },
+        {
+            "cluster_ids": [
+                "DtGGiHg51_m",
+                "Httyu4TRAG9"
+            ],
+            "document": {
+                "sourceId": {
+                    "media_type": "JxSEtB",
+                    "country": "Kazakhstan",
+                    "id": "B3Nvae",
+                    "name": "Kazakhstan Stock Exchange News"
+                },
+                "language": "eng",
+                "title": "BUILD INVESTMENTS GROUP (Kazakhstan) and Bazoviy Element Holding (Russia) sign memo of understanding",
+                "url": "http://www.kase.kz/eng/market/kasenews/newsdetails.asp?id=%7B7E33384E-F90D-4C14-A632-DDC534FA98E3%7D",
+                "downloaded": "2011-07-17T13:14:24.000Z",
+                "published": "2008-08-20T08:13:56.000Z",
+                "indexed": "2008-08-20T08:13:56.000Z",
+                "id": "Ca_jL3"
+            },
+            "tagged_fragment": "<i id=GIbhLEAHLeE><t>In May 2008</t> \"BI-<e id=DJd38>Strabag</e>\" won the first stage of tender on building of \"<e id=I2EofE>Tashkent</e>-Shymkent-<e id=I2Eug0>Taraz</e>\" motor way.</i>",
+            "fragment": "In May 2008 \"BI-Strabag\" won the first stage of tender on building of \"Tashkent-Shymkent-Taraz\" motor way.",
+            "time_fragment": "In May 2008",
+            "stop": "2008-05-31T23:59:59.000Z",
+            "item_fragment": "In May 2008 \"BI-Strabag\" won the first stage of tender on building of \"Tashkent-Shymkent-Taraz\" motor way.",
+            "precision": "month",
+            "start": "2008-05-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GIbhLEAHLeE",
+                "hits": 0,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entities": [
+                    "I2Eug0",
+                    "DJd38",
+                    "I2EofE"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "CVk_deoFa2Y",
+                "inherited_locations": [
+                    "I2Eug0",
+                    "I2EofE"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Business_Finance"
+            },
+            "time_type": "in",
+            "type": "CoOccurrence",
+            "id": "GIbhLEAHLeE",
+            "momentum": 0.0,
+            "time_fragment_context": "In May 2008 \"BI-Strabag\" won the first stage of tender on building of \"Tashkent-Shymkent-Taraz\" motor way."
+        },
+        {
+            "cluster_ids": [
+                "OnkunCDgJ6",
+                "Fri9AQBrVdd"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Gymboree gets rid of Uzbek cotton picked by kids. Who’s next?",
+                "url": "http://www.neweurasia.net/business-and-economics/gymboree-gets-rid-of-uzbek-cotton-picked-by-kids-whos-next/",
+                "downloaded": "2011-05-26T14:18:23.000Z",
+                "published": "2011-05-26T13:32:16.000Z",
+                "indexed": "2011-05-26T13:32:16.000Z",
+                "id": "HvUa3"
+            },
+            "tagged_fragment": "<t>In August, 2008</t> a coalition of the four trade associations ... S. apparel and <e id=CCkoe>retail industries</e> hand-delivered a letter addressed to <i id=GNoJbgANAOJ><e id=B_Mbq>Uzbekistan</e></i> <e id=B_FCl>President</e> <e id=bfkGe>Islam Karimov</e> to <e id=GLQDb>Ambassador of <e id=B_Mbq>Uzbekistan</e></e> <e id=Ff0bt>Abdulaziz Kamilov</e>",
+            "fragment": "In August, 2008 a coalition of the four trade associations representing the U.S. apparel and retail industries hand-delivered a letter addressed to Uzbekistan President Islam Karimov to Ambassador of Uzbekistan Abdulaziz Kamilov in Washington, DC. The group urged the government of Uzbekistan to take decisive and immediate actions to end the use of forced child labor in its cotton fields.",
+            "time_fragment": "In August, 2008",
+            "stop": "2008-08-31T23:59:59.000Z",
+            "item_fragment": "Uzbekistan",
+            "precision": "month",
+            "start": "2008-08-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNoJbgANAOJ",
+                "hits": 110986,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entity": "B_Mbq",
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "Cg6NXMt2SVz",
+                "general_negative": 0.0,
+                "document_category": "Labor"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GNoJbgANAOJ",
+            "momentum": 0.0029941238791918244,
+            "time_fragment_context": "In August, 2008 a coalition of the four trade associations representing the U.S. apparel and retail industries hand-delivered a letter addressed to Uzbekistan President Islam Karimov to Ambassador of Uzbekistan Abdulaziz Kamilov in Washington, DC. The group urged the government of Uzbekistan to take decisive and immediate actions to end the use of forced child labor in its cotton fields."
+        },
+        {
+            "cluster_ids": [
+                "B5_4FfKpkm2",
+                "Dh1EbhUF4tF"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Gymboree gets rid of Uzbek cotton picked by kids. Who’s next?",
+                "url": "http://www.neweurasia.net/business-and-economics/gymboree-gets-rid-of-uzbek-cotton-picked-by-kids-whos-next/",
+                "downloaded": "2011-05-26T14:18:23.000Z",
+                "published": "2011-05-26T13:32:16.000Z",
+                "indexed": "2011-05-26T13:32:16.000Z",
+                "id": "HvUa3"
+            },
+            "tagged_fragment": "<t>In August, 2008</t> a coalition of the four trade associations ... letter addressed to <e id=B_Mbq>Uzbekistan</e> <e id=B_FCl>President</e> <e id=bfkGe>Islam Karimov</e> to <e id=GLQDb>Ambassador of <i id=GNoJbgANAON><e id=B_Mbq>Uzbekistan</e></i></e> <e id=Ff0bt>Abdulaziz Kamilov</e> in <e id=I2EnW2>Washington, DC.</e> The group urged the <e id=CEDHD>government</e> of",
+            "fragment": "In August, 2008 a coalition of the four trade associations representing the U.S. apparel and retail industries hand-delivered a letter addressed to Uzbekistan President Islam Karimov to Ambassador of Uzbekistan Abdulaziz Kamilov in Washington, DC. The group urged the government of Uzbekistan to take decisive and immediate actions to end the use of forced child labor in its cotton fields.",
+            "time_fragment": "In August, 2008",
+            "stop": "2008-08-31T23:59:59.000Z",
+            "item_fragment": "Uzbekistan",
+            "precision": "month",
+            "start": "2008-08-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNoJbgANAON",
+                "hits": 110986,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entity": "B_Mbq",
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "Cg6NXMt2SVz",
+                "general_negative": 0.0,
+                "document_category": "Labor"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GNoJbgANAON",
+            "momentum": 0.0029941238791918244,
+            "time_fragment_context": "In August, 2008 a coalition of the four trade associations representing the U.S. apparel and retail industries hand-delivered a letter addressed to Uzbekistan President Islam Karimov to Ambassador of Uzbekistan Abdulaziz Kamilov in Washington, DC. The group urged the government of Uzbekistan to take decisive and immediate actions to end the use of forced child labor in its cotton fields."
+        },
+        {
+            "cluster_ids": [
+                "B5_4FfKpkm2",
+                "Dh1EbhUF4tF"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Gymboree gets rid of Uzbek cotton picked by kids. Who’s next?",
+                "url": "http://www.neweurasia.net/business-and-economics/gymboree-gets-rid-of-uzbek-cotton-picked-by-kids-whos-next/",
+                "downloaded": "2011-05-26T14:18:23.000Z",
+                "published": "2011-05-26T13:32:16.000Z",
+                "indexed": "2011-05-26T13:32:16.000Z",
+                "id": "HvUa3"
+            },
+            "tagged_fragment": "<t>In August, 2008</t> a coalition of the four trade associations ... <e id=Ff0bt>Abdulaziz Kamilov</e> in <e id=I2EnW2>Washington, DC.</e> The group urged the <e id=CEDHD>government</e> of <i id=GNoJbgANAOR><e id=B_Mbq>Uzbekistan</e></i> to take decisive and immediate actions to end the use of forced child",
+            "fragment": "In August, 2008 a coalition of the four trade associations representing the U.S. apparel and retail industries hand-delivered a letter addressed to Uzbekistan President Islam Karimov to Ambassador of Uzbekistan Abdulaziz Kamilov in Washington, DC. The group urged the government of Uzbekistan to take decisive and immediate actions to end the use of forced child labor in its cotton fields.",
+            "time_fragment": "In August, 2008",
+            "stop": "2008-08-31T23:59:59.000Z",
+            "item_fragment": "Uzbekistan",
+            "precision": "month",
+            "start": "2008-08-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNoJbgANAOR",
+                "hits": 110986,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entity": "B_Mbq",
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "Cg6NXMt2SVz",
+                "general_negative": 0.0,
+                "document_category": "Labor"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GNoJbgANAOR",
+            "momentum": 0.0029941238791918244,
+            "time_fragment_context": "In August, 2008 a coalition of the four trade associations representing the U.S. apparel and retail industries hand-delivered a letter addressed to Uzbekistan President Islam Karimov to Ambassador of Uzbekistan Abdulaziz Kamilov in Washington, DC. The group urged the government of Uzbekistan to take decisive and immediate actions to end the use of forced child labor in its cotton fields."
+        },
+        {
+            "cluster_ids": [
+                "BfS39r_qps-",
+                "CmA_AontHZB"
+            ],
+            "document": {
+                "sourceId": {
+                    "media_type": "JxSEtB",
+                    "country": "Kazakhstan",
+                    "id": "B3Nvae",
+                    "name": "Kazakhstan Stock Exchange News"
+                },
+                "language": "eng",
+                "title": "BUILD INVESTMENTS GROUP (Kazakhstan) and Bazoviy Element Holding (Russia) sign memo of understanding",
+                "url": "http://www.kase.kz/eng/market/kasenews/newsdetails.asp?id=%7B7E33384E-F90D-4C14-A632-DDC534FA98E3%7D",
+                "downloaded": "2011-07-17T13:14:24.000Z",
+                "published": "2008-08-20T08:13:56.000Z",
+                "indexed": "2008-08-20T08:13:56.000Z",
+                "id": "Ca_jL3"
+            },
+            "tagged_fragment": "<t>In May 2008</t> \"BI-<e id=DJd38>Strabag</e>\" won the first stage of tender on building of \"<i id=GIbhLEAHLd9><e id=I2EofE>Tashkent</e></i>-Shymkent-<e id=I2Eug0>Taraz</e>\" motor way.",
+            "fragment": "In May 2008 \"BI-Strabag\" won the first stage of tender on building of \"Tashkent-Shymkent-Taraz\" motor way.",
+            "time_fragment": "In May 2008",
+            "stop": "2008-05-31T23:59:59.000Z",
+            "item_fragment": "Tashkent",
+            "precision": "month",
+            "start": "2008-05-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GIbhLEAHLd9",
+                "hits": 17140,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entity": "I2EofE",
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "FUNrQQSqMdA",
+                "general_negative": 0.0,
+                "document_category": "Business_Finance"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GIbhLEAHLd9",
+            "momentum": 0.0024199279146185498,
+            "time_fragment_context": "In May 2008 \"BI-Strabag\" won the first stage of tender on building of \"Tashkent-Shymkent-Taraz\" motor way."
+        },
+        {
+            "cluster_ids": [
+                "F5ooZipe1TG"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "World Bank launches new Country Partnership Strategy with Uzbekistan",
+                "url": "http://www.neweurasia.net/business-and-economics/world-bank-launches-new-country-partnership-strategy-with-uzbekistan/",
+                "downloaded": "2011-12-08T12:55:37.000Z",
+                "published": "2011-12-08T12:06:12.000Z",
+                "indexed": "2011-12-08T12:06:12.000Z",
+                "id": "IXSUJ"
+            },
+            "tagged_fragment": "upon the positive experience of the previous <e id=d79w0>Country Assistance Strategy</e> for <t>2008-2011</t>,\" says <e id=XvML6>Takuya Kamata</e>, <e id=B_G4a>World Bank Country</e> <e id=I541os><e id=B_Giu>Manager</e> for <i id=GOoui0ACQrI><e id=B_Mbq>Uzbekistan</e></i></e>.",
+            "fragment": "\"The new CPS builds upon the positive experience of the previous Country Assistance Strategy for 2008-2011,\" says Takuya Kamata, World Bank Country Manager for Uzbekistan.",
+            "time_fragment": "2008-2011",
+            "stop": "2011-12-31T23:59:59.000Z",
+            "item_fragment": "Uzbekistan",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GOoui0ACQrI",
+                "hits": 6,
+                "general_positive": 0.90625,
+                "entities": [
+                    "B_Mbq"
+                ],
+                "quote": "The new CPS builds upon the positive experience of the previous Country Assistance Strategy for 2008-2011; Uzbekistan has a wide range of opportunities. It has a well educated, young population, which is a great asset. Uzbekistan has great potential in horticulture as well. Key elements of required economic reforms are, for example, to improve energy intensity and the investment climate. And, transparency and accountability in governance are critical for inclusive growth.",
+                "negative": 0.0,
+                "person": "XvML6",
+                "quote_entities": [
+                    "B_Mbq"
+                ],
+                "canonic_id": "DOhe2BSDLUu",
+                "positive": 0.28125,
+                "inherited_locations": [
+                    "B_Mbq"
+                ],
+                "general_negative": 0.28125,
+                "document_category": "Business_Finance"
+            },
+            "time_type": "in",
+            "type": "Quotation",
+            "id": "GOoui0ACQrI",
+            "momentum": 0.12994853369586329,
+            "time_fragment_context": "\"The new CPS builds upon the positive experience of the previous Country Assistance Strategy for 2008-2011,\" says Takuya Kamata, World Bank Country Manager for Uzbekistan."
+        },
+        {
+            "cluster_ids": [
+                "D5dsOSLZr8O"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "World Bank launches new Country Partnership Strategy with Uzbekistan",
+                "url": "http://www.neweurasia.net/business-and-economics/world-bank-launches-new-country-partnership-strategy-with-uzbekistan/",
+                "downloaded": "2011-12-08T12:55:37.000Z",
+                "published": "2011-12-08T12:06:12.000Z",
+                "indexed": "2011-12-08T12:06:12.000Z",
+                "id": "IXSUJ"
+            },
+            "tagged_fragment": "<e id=CfJ4o>CPS</e> builds upon the positive experience of the previous <e id=d79w0>Country Assistance Strategy</e> for <t>2008-2011</t>,\" says <e id=XvML6>Takuya Kamata</e>, <e id=B_G4a>World Bank Country</e> <e id=I541os><e id=B_Giu>Manager</e> for <e id=B_Mbq>Uzbekistan</e></e>",
+            "fragment": "\"The new CPS builds upon the positive experience of the previous Country Assistance Strategy for 2008-2011,\" says Takuya Kamata, World Bank Country Manager for Uzbekistan.",
+            "time_fragment": "2008-2011",
+            "stop": "2011-12-31T23:59:59.000Z",
+            "item_fragment": "\"The new CPS builds upon the positive experience of the previous Country Assistance Strategy for 2008-2011,\" says Takuya Kamata, World Bank Country Manager for Uzbekistan.",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GOoui0ACQrP",
+                "hits": 2,
+                "general_positive": 0.90625,
+                "positive": 0.28125,
+                "negative": 0.0,
+                "entities": [
+                    "XvML6",
+                    "B_Mbq",
+                    "B_Giu",
+                    "CfJ4o",
+                    "I541os",
+                    "B_G4a"
+                ],
+                "canonic_id": "4A7bDLPR27",
+                "inherited_locations": [
+                    "B_Mbq"
+                ],
+                "general_negative": 0.28125
+            },
+            "time_type": "in",
+            "type": "CoOccurrence",
+            "id": "GOoui0ACQrP",
+            "momentum": 0.00036369618871114599,
+            "time_fragment_context": "\"The new CPS builds upon the positive experience of the previous Country Assistance Strategy for 2008-2011,\" says Takuya Kamata, World Bank Country Manager for Uzbekistan."
+        },
+        {
+            "cluster_ids": [
+                "G8T4HIaDXdu"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "World Bank launches new Country Partnership Strategy with Uzbekistan",
+                "url": "http://www.neweurasia.net/business-and-economics/world-bank-launches-new-country-partnership-strategy-with-uzbekistan/",
+                "downloaded": "2011-12-08T12:55:37.000Z",
+                "published": "2011-12-08T12:06:12.000Z",
+                "indexed": "2011-12-08T12:06:12.000Z",
+                "id": "IXSUJ"
+            },
+            "tagged_fragment": "upon the positive experience of the previous <e id=d79w0>Country Assistance Strategy</e> for <t>2008-2011</t>,\" says <e id=XvML6>Takuya Kamata</e>, <e id=B_G4a>World Bank Country</e> <e id=I541os><e id=B_Giu>Manager</e> for <i id=GOoui0ACQqP><e id=B_Mbq>Uzbekistan</e></i></e>.",
+            "fragment": "\"The new CPS builds upon the positive experience of the previous Country Assistance Strategy for 2008-2011,\" says Takuya Kamata, World Bank Country Manager for Uzbekistan.",
+            "time_fragment": "2008-2011",
+            "stop": "2011-12-31T23:59:59.000Z",
+            "item_fragment": "Uzbekistan",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GOoui0ACQqP",
+                "hits": 40116,
+                "general_positive": 0.90625,
+                "positive": 0.28125,
+                "negative": 0.0,
+                "entity": "B_Mbq",
+                "canonic_id": "Cg6NXMt2SVz",
+                "general_negative": 0.28125,
+                "document_category": "Business_Finance"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GOoui0ACQqP",
+            "momentum": 0.011415293112708941,
+            "time_fragment_context": "\"The new CPS builds upon the positive experience of the previous Country Assistance Strategy for 2008-2011,\" says Takuya Kamata, World Bank Country Manager for Uzbekistan."
+        },
+        {
+            "cluster_ids": [
+                "G8T4HIaDXdu"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "World Bank launches new Country Partnership Strategy with Uzbekistan",
+                "url": "http://www.neweurasia.net/business-and-economics/world-bank-launches-new-country-partnership-strategy-with-uzbekistan/",
+                "downloaded": "2011-12-08T12:55:37.000Z",
+                "published": "2011-12-08T12:06:12.000Z",
+                "indexed": "2011-12-08T12:06:12.000Z",
+                "id": "IXSUJ"
+            },
+            "tagged_fragment": "Assistance Strategy for <t>2008-2011</t>,\" says <e id=XvML6>Takuya Kamata</e>...<i id=GOoui0ACQqc><e id=B_Mbq>Uzbekistan</e></i> has a wide range of opportunities.",
+            "fragment": "\"Uzbekistan has a wide range of opportunities.",
+            "time_fragment": "2008-2011",
+            "stop": "2011-12-31T23:59:59.000Z",
+            "item_fragment": "Uzbekistan",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GOoui0ACQqc",
+                "hits": 40116,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "negative": 0.0,
+                "entity": "B_Mbq",
+                "canonic_id": "Cg6NXMt2SVz",
+                "general_negative": 0.0,
+                "document_category": "Business_Finance"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GOoui0ACQqc",
+            "momentum": 0.011415293112708941,
+            "time_fragment_context": "\"The new CPS builds upon the positive experience of the previous Country Assistance Strategy for 2008-2011,\" says Takuya Kamata, World Bank Country Manager for Uzbekistan."
+        },
+        {
+            "cluster_ids": [
+                "HFgmVWu1dNu"
+            ],
+            "document": {
+                "sourceId": {
+                    "media_type": "JxSEs2",
+                    "country": "Kazakhstan",
+                    "id": "FuA",
+                    "name": "Казахстанская Правда"
+                },
+                "language": "eng",
+                "title": "A distance-cutting road under construction",
+                "url": "http://www.kazpravda.kz/c/1338891504",
+                "downloaded": "2012-06-05T12:29:05.993Z",
+                "published": "2012-06-05T12:29:02.000Z",
+                "indexed": "2012-06-05T12:29:02.000Z",
+                "id": "JKjTaS"
+            },
+            "tagged_fragment": "relevant contract expired in <t>2008</t> and was not duly extended...<i id=GPkDwOAGFAz><e id=B_Mbq>Uzbekistan</e></i> put up border guards on this road section.",
+            "fragment": "Uzbekistan put up border guards on this road section.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Uzbekistan",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GPkDwOAGFAz",
+                "hits": 53249,
+                "general_positive": 0.0,
+                "positive": 0.90000000000000002,
+                "negative": 0.0,
+                "entity": "B_Mbq",
+                "canonic_id": "Cg6NXMt2SVz",
+                "general_negative": 0.0,
+                "document_category": "Environment"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GPkDwOAGFAz",
+            "momentum": 0.0045156895940944072,
+            "time_fragment_context": "The relevant contract expired in 2008 and was not duly extended, which made everyone taking a short way from Shardara to Maktaaral trespassers."
+        }
+    ]
+}

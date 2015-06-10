@@ -1,0 +1,2214 @@
+{
+    "count": {
+        "references": {
+            "total": 31,
+            "returned": 31
+        }
+    },
+    "status": "SUCCESS",
+    "entities": {
+        "I2EwMX": {
+            "hits": 22,
+            "name": "Ahal Province",
+            "pos": {
+                "latitude": 38.25,
+                "longitude": 59.75
+            },
+            "alias": [
+                "Ahal Welaýaty",
+                "Ashkhabadskaya Oblast’",
+                "Ahal Welayaty",
+                "Ashkhabad Oblast",
+                "Ahal",
+                "Ashgabat Oblasty",
+                "Akhalskiy Velayat",
+                "Ashgabad Oblasty"
+            ],
+            "momentum": 0.00019125306250651107,
+            "longname": "Ahal Province,Turkmenistan",
+            "type": "ProvinceOrState",
+            "containers": [
+                "B_NPW",
+                "B_Fa4"
+            ],
+            "external_links": {
+                "wikipedia": {
+                    "id": "Ahal_Province"
+                }
+            }
+        },
+        "bfDNB": {
+            "hits": 2335095,
+            "type": "Religion",
+            "name": "Islam",
+            "momentum": 0.64993765468478193
+        },
+        "B_GC2": {
+            "hits": 1749106,
+            "type": "Position",
+            "name": "Editor",
+            "momentum": 0.15346454758984338
+        },
+        "B_Fa4": {
+            "hits": 3295137,
+            "name": "Asia",
+            "pos": {
+                "latitude": 29.84064,
+                "longitude": 89.296880000000002
+            },
+            "alias": [
+                "Aasia",
+                "Àsia",
+                "Azsia",
+                "एशिया महादवीप",
+                "Ασια",
+                "an Áise",
+                "Azja",
+                "Ázsia",
+                "Asya",
+                "آسيا",
+                "アジア",
+                "Asie",
+                "Ásia",
+                "Asia",
+                "Āzija",
+                "एशिया महाद्वीप",
+                "Azio",
+                "Ασία",
+                "Chau A",
+                "アシア",
+                "Азия",
+                "Châu Á",
+                "اسيا",
+                "Azie",
+                "Azië",
+                "Asien",
+                "เอเชย",
+                "เอเชีย",
+                "亚洲",
+                "Asía",
+                "Azija",
+                "an Aise",
+                "Азія",
+                "אסיה"
+            ],
+            "external_links": {
+                "wikipedia": {
+                    "id": "Asia"
+                }
+            },
+            "type": "Continent",
+            "momentum": 0.24728391306954597
+        },
+        "GlyJt": {
+            "hits": 529,
+            "type": "Company",
+            "name": "Islamism",
+            "momentum": 0.00082973631598569093,
+            "external_links": {
+                "wikipedia": {
+                    "id": "Islamism"
+                }
+            }
+        },
+        "t7ZW_": {
+            "hits": 58,
+            "type": "Person",
+            "name": "Hudayberdi Amadurdyyew",
+            "momentum": 1.0769651271264491e-05
+        },
+        "bfJtR": {
+            "hits": 800273,
+            "type": "Religion",
+            "name": "Islamist",
+            "momentum": 0.21838284580187017
+        },
+        "B_KI2": {
+            "hits": 102196,
+            "type": "Organization",
+            "name": "Islamist",
+            "momentum": 0.0053436847712499567,
+            "external_links": {
+                "wikipedia": {
+                    "id": "Islamist"
+                }
+            }
+        },
+        "B_NPW": {
+            "hits": 105013,
+            "name": "Turkmenistan",
+            "pos": {
+                "latitude": 40.0,
+                "longitude": 60.0
+            },
+            "alias": [
+                "Orileede Tookimenisita",
+                "An Tuircméanastáin",
+                "Turquemenistao",
+                "तरकमनिसतान",
+                "El Turkmenistan",
+                "Turkumenistäan",
+                "Turkmenistaan",
+                "Turcomenistao",
+                "Turkmėnija",
+                "Туркманистон",
+                "تركمانستان",
+                "Pow Turkmen",
+                "Turkménsko",
+                "Turkumenistaan",
+                "Turkménistan",
+                "Turkumenistan",
+                "Turkmen Soviet Socialist Republic",
+                "Turkimenistan",
+                "ತುರ್ಕಮೆನಿಸ್ಥಾನ್",
+                "Turkmenistanas",
+                "Түркмөнстан",
+                "Türkmenistan",
+                "Туркменістан",
+                "Turukimenistani",
+                "Turcmenistan",
+                "තුර්ක්මෙනිස්ථානය",
+                "Թուրքմենիստան",
+                "Tyrcmenistan",
+                "ترکمنستان",
+                "Tɛkmenistan nutome",
+                "Tuốc-mê-ni-xtan",
+                "তুর্কমেনিয়া",
+                "Tikɛmenisita",
+                "Turkmėnistanas",
+                "Turkmenia",
+                "ເຕຣກເມນສະຖານ",
+                "Türkmənistan",
+                "તરકમનિસતાન",
+                "투르크멘",
+                "Turcomannia",
+                "Tekimenisiteni",
+                "Turcomenistan - Turkmenostan",
+                "Turkmenie",
+                "Туркменистан",
+                "తురకమసతన",
+                "Türkmenisztán",
+                "Turquemenistão",
+                "Թուրքմենստան",
+                "Tɛkmɛnistan",
+                "Turkmenisztan",
+                "Turkmenan",
+                "トルクメニスタン",
+                "Turkmaniston",
+                "তরকমেনিযা",
+                "Tuoc-me-ni-xtan",
+                "土库曼斯坦",
+                "तुर्कमेनिस्तान",
+                "Turkmenio",
+                "ತುರಕಮನಸಥಾನ",
+                "Turkmenskaya Sovetskaya Sotsialisticheskaya Respublika",
+                "טורקמניסטאן",
+                "Τουρκμενιστάν",
+                "투르크메니스탄",
+                "Turkmenujo",
+                "తుర్కమెస్తాన్",
+                "Туркмэністан",
+                "Takimenesitaani",
+                "Turkmenija",
+                "Tukemenisita",
+                "Turcomenistán - Türkmenostan",
+                "Turkmensko",
+                "i-Turkmenistan",
+                "تىركمةنعستان",
+                "Туркмения",
+                "Τουρκμενισταν",
+                "ເຕຣີກເມນິສະຖານ",
+                "Turkmenistán",
+                "Turkminsuyu",
+                "Түрікменстан",
+                "Turkmenän",
+                "투르크멘",
+                "ତୁର୍କମେନିସ୍ତାନ୍",
+                "ቱርክሜኒስታን",
+                "เติร์กเมนิสถาน",
+                "Turkmenistani",
+                "Turkmənistan",
+                "Torkmenistan",
+                "Turkmenistana",
+                "Turikimenisitani",
+                "Turkmenië",
+                "তুর্কমেনিয়া",
+                "เตรกเมนสถาน",
+                "Turukumenisitani",
+                "તુર્ક્મનિસ્તાન",
+                "투르크메니스탄",
+                "Túrkmenistan",
+                "Turcmenia",
+                "Turkmenistāna",
+                "טורקמניסטן",
+                "Turkmenistan",
+                "துரகமெனிஸதான",
+                "Orílẹ́ède Tọọkimenisita",
+                "തുര്‍ക്ക്മെനിസ്ഥാന്‍",
+                "تورکمانستان",
+                "თურქმენეთი",
+                "துர்க்மெனிஸ்தான்",
+                "ତରକମେନସତାନ",
+                "තරකමෙනසථානය",
+                "Tikɛménisitá",
+                "Turcomenistão",
+                "തര‍കകമെനിസഥാന‍",
+                "ترکمانستان",
+                "An Tuircmeanastain",
+                "ទគមេនសតង",
+                "ประเทศเตรกเมนสถาน",
+                "ទួគមេនីស្តង់",
+                "ประเทศเติร์กเมนิสถาน"
+            ],
+            "momentum": 0.001046711014128074,
+            "longname": "Turkamenistan",
+            "type": "Country",
+            "containers": [
+                "B_Fa4"
+            ],
+            "external_links": {
+                "wikipedia": {
+                    "id": "Turkmenistan"
+                }
+            }
+        },
+        "CAqRo": {
+            "hits": 14196,
+            "name": "Ashkhabad",
+            "pos": {
+                "latitude": 37.950000000000003,
+                "longitude": 58.383330000000001
+            },
+            "alias": [
+                "Aszchabad",
+                "Asqabad",
+                "Achkhabad - Asgabat",
+                "Asgabat",
+                "عشق‌آباد",
+                "Askabad",
+                "አሽጋባት",
+                "Asjchabad",
+                "Aşqabad",
+                "Aŝgabato",
+                "Ασγκαμπάτ",
+                "Asgabato",
+                "აშხაბადი",
+                "Askhabad",
+                "Aschabadas",
+                "אשגאבט",
+                "Ashkhabad",
+                "Ashkabad",
+                "Ашхобад",
+                "عشق‌اباد",
+                "‎阿什哈巴德",
+                "Poltoratsk",
+                "Ашхабад",
+                "Ashgabat",
+                "Ashqabad",
+                "Achgabat",
+                "ASB",
+                "アシガバート",
+                "Ašgabat",
+                "Aşgabat",
+                "Ασγκαμπατ",
+                "アシカハート",
+                "Ашгабат",
+                "아시가바트",
+                "Aschabad",
+                "아시가바트",
+                "Achkhabad - Aşgabat",
+                "Asjkhabad",
+                "阿什哈巴德",
+                "Ašchabadas",
+                "Ašchabad"
+            ],
+            "momentum": 0.00086684221473898456,
+            "type": "City",
+            "containers": [
+                "B_NPW",
+                "I2EwMX",
+                "B_Fa4"
+            ],
+            "external_links": {
+                "wikipedia": {
+                    "id": "Ashgabat"
+                }
+            }
+        },
+        "bfNAQ": {
+            "hits": 406703,
+            "type": "Religion",
+            "name": "Islamists",
+            "momentum": 0.11673840163774059
+        },
+        "I2qQL9": {
+            "artificial_hits": 1,
+            "hits": 100001,
+            "type": "Position",
+            "name": "Political",
+            "momentum": 0.0
+        },
+        "B_E9D": {
+            "category": [
+                "I2qQL9"
+            ],
+            "hits": 204557,
+            "name": "European Parliament",
+            "external_links": {
+                "wikipedia": {
+                    "id": "European_Parliament"
+                }
+            },
+            "type": "Organization",
+            "momentum": 0.012985127165521739
+        },
+        "IdQcN-": {
+            "hits": 18,
+            "type": "Person",
+            "name": "Annasoltan",
+            "momentum": 0.00017538054670472472
+        },
+        "FMbUa": {
+            "hits": 2106,
+            "type": "Person",
+            "name": "Abdulaziz",
+            "momentum": 0.00078943842401604433,
+            "external_links": {
+                "wikipedia": {
+                    "id": "Abd%C3%BClaziz",
+                    "desc": "Sultan of the Ottoman Empire"
+                }
+            }
+        },
+        "gqTcy": {
+            "hits": 39,
+            "type": "Person",
+            "name": "Muhammed Mamedov",
+            "momentum": 6.465223478825415e-05
+        }
+    },
+    "instances": [
+        {
+            "cluster_ids": [
+                "D0LGdmf671e"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-2-the-truth-behind-the-2008-gun-fight/",
+                "downloaded": "2011-03-08T23:12:10.000Z",
+                "published": "2011-03-08T23:01:17.000Z",
+                "indexed": "2011-03-08T23:01:17.000Z",
+                "id": "HF4nB"
+            },
+            "tagged_fragment": "first dealing with the <t>2008</t> shooting, the second dealing...<i id=GNOPW9AJEm1>all levels will cast light not only upon Turkmenistan's hidden Islamists, but our government's hidden face.</i>",
+            "fragment": "all levels will cast light not only upon Turkmenistan's hidden Islamists, but our government's hidden face.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "all levels will cast light not only upon Turkmenistan's hidden Islamists, but our government's hidden face.",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNOPW9AJEm1",
+                "hits": 0,
+                "general_positive": 0.0,
+                "entities": [
+                    "bfNAQ",
+                    "B_NPW"
+                ],
+                "quote": "at all levels will cast light not only upon Turkmenistan's hidden Islamists, but our government's hidden face. neweurasia: First of all, what is the source of your information",
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "person": "t7ZW_",
+                "quote_entities": [
+                    "bfNAQ",
+                    "B_NPW"
+                ],
+                "canonic_id": "CeobWxSlCEb",
+                "positive": 0.0,
+                "inherited_locations": [
+                    "B_NPW"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "Quotation",
+            "id": "GNOPW9AJEm1",
+            "momentum": 0.0,
+            "time_fragment_context": "Consequently, I've divided this interview into two parts, the first dealing with the 2008 shooting, the second dealing with Islamism's prospects in Turkmenistan."
+        },
+        {
+            "cluster_ids": [
+                "D0LGdmf671e"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-2-the-truth-behind-the-2008-gun-fight/",
+                "downloaded": "2011-03-08T23:12:10.000Z",
+                "published": "2011-03-08T23:01:17.000Z",
+                "indexed": "2011-03-08T23:01:17.000Z",
+                "id": "HF4nB"
+            },
+            "tagged_fragment": "first dealing with the <t>2008</t> shooting, the second dealing...<i id=GNOPW9AJEm0>all levels will cast light not only upon Turkmenistan's hidden Islamists, but our government's hidden face.</i>",
+            "fragment": "all levels will cast light not only upon Turkmenistan's hidden Islamists, but our government's hidden face.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "all levels will cast light not only upon Turkmenistan's hidden Islamists, but our government's hidden face.",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNOPW9AJEm0",
+                "hits": 0,
+                "general_positive": 0.0,
+                "entities": [
+                    "B_NPW",
+                    "bfNAQ"
+                ],
+                "quote": "at all levels will cast light not only upon Turkmenistan's hidden Islamists, but our government's hidden face. neweurasia: First of all, what is the source of your information",
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "person": "t7ZW_",
+                "quote_entities": [
+                    "B_NPW",
+                    "bfNAQ"
+                ],
+                "canonic_id": "CeobWxSlCEb",
+                "positive": 0.0,
+                "inherited_locations": [
+                    "B_NPW"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "Quotation",
+            "id": "GNOPW9AJEm0",
+            "momentum": 0.0,
+            "time_fragment_context": "Consequently, I've divided this interview into two parts, the first dealing with the 2008 shooting, the second dealing with Islamism's prospects in Turkmenistan."
+        },
+        {
+            "cluster_ids": [
+                "EdR6NSMa6sC"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-2-the-truth-behind-the-2008-gun-fight/",
+                "downloaded": "2011-03-08T23:12:10.000Z",
+                "published": "2011-03-08T23:01:17.000Z",
+                "indexed": "2011-03-08T23:01:17.000Z",
+                "id": "HF4nB"
+            },
+            "tagged_fragment": "first dealing with the <t>2008</t> shooting, the second dealing...<i id=GNOPW9AJEmz>What <e id=t7ZW_>he</e> has to say at all levels will cast light not only upon <e id=B_NPW>Turkmenistan</e>'s hidden <e id=bfNAQ>Islamists</e>, but our government's hidden face.</i>",
+            "fragment": "What he has to say at all levels will cast light not only upon Turkmenistan's hidden Islamists, but our government's hidden face.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "What he has to say at all levels will cast light not only upon Turkmenistan's hidden Islamists, but our government's hidden face.",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNOPW9AJEmz",
+                "hits": 0,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entities": [
+                    "bfNAQ",
+                    "t7ZW_",
+                    "B_NPW"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "G5BqQsPY49d",
+                "inherited_locations": [
+                    "B_NPW"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "CoOccurrence",
+            "id": "GNOPW9AJEmz",
+            "momentum": 0.0,
+            "time_fragment_context": "Consequently, I've divided this interview into two parts, the first dealing with the 2008 shooting, the second dealing with Islamism's prospects in Turkmenistan."
+        },
+        {
+            "cluster_ids": [
+                "BPS_ZZqtLNG"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-2-the-truth-behind-the-2008-gun-fight/",
+                "downloaded": "2011-03-08T23:12:10.000Z",
+                "published": "2011-03-08T23:01:17.000Z",
+                "indexed": "2011-03-08T23:01:17.000Z",
+                "id": "HF4nB"
+            },
+            "tagged_fragment": "Consequently, I've divided this interview into two parts, the first dealing with the <t>2008</t> shooting, the second dealing with <e id=Xov_k>Islamism</e>'s prospects in <e id=B_NPW>Turkmenistan</e>",
+            "fragment": "Consequently, I've divided this interview into two parts, the first dealing with the 2008 shooting, the second dealing with Islamism's prospects in Turkmenistan.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Consequently, I've divided this interview into two parts, the first dealing with the 2008 shooting, the second dealing with Islamism's prospects in Turkmenistan.",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNOPW9AJEmy",
+                "hits": 0,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.31034482758620691,
+                "negative": 0.0,
+                "entities": [
+                    "B_NPW"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.31034482758620691,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "BUMV9KgHLjT",
+                "inherited_locations": [
+                    "B_NPW"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "CoOccurrence",
+            "id": "GNOPW9AJEmy",
+            "momentum": 0.0,
+            "time_fragment_context": "Consequently, I've divided this interview into two parts, the first dealing with the 2008 shooting, the second dealing with Islamism's prospects in Turkmenistan."
+        },
+        {
+            "cluster_ids": [
+                "BZcFm53X18q"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-2-the-truth-behind-the-2008-gun-fight/",
+                "downloaded": "2011-03-08T23:12:10.000Z",
+                "published": "2011-03-08T23:01:17.000Z",
+                "indexed": "2011-03-08T23:01:17.000Z",
+                "id": "HF4nB"
+            },
+            "tagged_fragment": "have the inside story of <t>2008</t>'s mysterious shoot-out...<i id=GNOPW9AJEmp>More than two years have passed since mysterious armed clashes erupted in the <e id=t7ZW2>Hitrowka</e> district of <e id=CAqRo>Ashgabat</e>.</i>",
+            "fragment": "More than two years have passed since mysterious armed clashes erupted in the Hitrowka district of Ashgabat.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "More than two years have passed since mysterious armed clashes erupted in the Hitrowka district of Ashgabat.",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNOPW9AJEmp",
+                "hits": 0,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entities": [
+                    "CAqRo"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "B3sz7AOvgwr",
+                "inherited_locations": [
+                    "CAqRo"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "CoOccurrence",
+            "id": "GNOPW9AJEmp",
+            "momentum": 0.0,
+            "time_fragment_context": "Editor's note: neweurasia's Annasoltan's search for insight into the underground Islamist community has turned up a surprising lead: a man who claims to have the inside story of 2008's mysterious shoot-out in Ashgabat."
+        },
+        {
+            "cluster_ids": [
+                "FGtL3AJglCe"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-2-the-truth-behind-the-2008-gun-fight/",
+                "downloaded": "2011-03-08T23:12:10.000Z",
+                "published": "2011-03-08T23:01:17.000Z",
+                "indexed": "2011-03-08T23:01:17.000Z",
+                "id": "HF4nB"
+            },
+            "tagged_fragment": "<e id=IdQcN->Annasoltan</e>'s search for insight into the underground <e id=bfJtR>Islamist</e> community has turned up a surprising lead: a man who claims to have the inside story of <t>2008</t>'s mysterious shoot-out",
+            "fragment": "Editor's note: neweurasia's Annasoltan's search for insight into the underground Islamist community has turned up a surprising lead: a man who claims to have the inside story of 2008's mysterious shoot-out in Ashgabat.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Editor's note: neweurasia's Annasoltan's search for insight into the underground Islamist community has turned up a surprising lead: a man who claims to have the inside story of 2008's mysterious shoot-out in Ashgabat.",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNOPW9AJEmo",
+                "hits": 0,
+                "general_positive": 0.0,
+                "positive": 0.21428571428571427,
+                "fragment_count": 1,
+                "violence": 0.21428571428571427,
+                "negative": 0.0,
+                "entities": [
+                    "CAqRo",
+                    "B_GC2",
+                    "IdQcN-",
+                    "bfJtR"
+                ],
+                "sentiments": {
+                    "positive": 0.21428571428571427,
+                    "activism": 0.0,
+                    "violence": 0.21428571428571427,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.21428571428571427
+                },
+                "canonic_id": "Esy4V00s_ur",
+                "inherited_locations": [
+                    "CAqRo"
+                ],
+                "general_negative": 0.21428571428571427,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "CoOccurrence",
+            "id": "GNOPW9AJEmo",
+            "momentum": 0.0,
+            "time_fragment_context": "Editor's note: neweurasia's Annasoltan's search for insight into the underground Islamist community has turned up a surprising lead: a man who claims to have the inside story of 2008's mysterious shoot-out in Ashgabat."
+        },
+        {
+            "cluster_ids": [
+                "HDVyYTfC6se"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-2-the-truth-behind-the-2008-gun-fight/",
+                "downloaded": "2011-03-08T23:12:10.000Z",
+                "published": "2011-03-08T23:01:17.000Z",
+                "indexed": "2011-03-08T23:01:17.000Z",
+                "id": "HF4nB"
+            },
+            "tagged_fragment": "<i id=GNOPW9AJEmn><e id=B_NPW>Turkmenistan</e>’s hidden <e id=bfNAQ>Islamists</e>, part 2: the truth behind the <t>2008</t> gun fight?</i>",
+            "fragment": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNOPW9AJEmn",
+                "hits": 0,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entities": [
+                    "B_NPW",
+                    "bfNAQ"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "EwSr5uXuN5G",
+                "inherited_locations": [
+                    "B_NPW"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "CoOccurrence",
+            "id": "GNOPW9AJEmn",
+            "momentum": 0.0,
+            "time_fragment_context": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?"
+        },
+        {
+            "cluster_ids": [
+                "EhN0ckJUr9u"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 3: Long live the snake that does not bite me",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-3-long-live-the-snake-that-does-not-bite-me/",
+                "downloaded": "2011-03-11T09:25:27.000Z",
+                "published": "2011-03-10T23:00:44.000Z",
+                "indexed": "2011-03-10T23:00:44.000Z",
+                "id": "HHaJX"
+            },
+            "tagged_fragment": "focused on the mysterious <t>2008</t> shoot-out, but now he turns...my last post, I published the first half of an interview with <e id=FMbUa><e id=FMbUa>Abdulaziz</e></e>, a man highly knowledgeable about <e id=B_NPW><e id=B_NPW>Turkmenistan</e></e>'s underground <e id=B_KI2><e id=B_KI2>Islamist</e></e> community",
+            "fragment": "In my last post, I published the first half of an interview with Abdulaziz, a man highly knowledgeable about Turkmenistan's underground Islamist community.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "In my last post, I published the first half of an interview with Abdulaziz, a man highly knowledgeable about Turkmenistan's underground Islamist community.",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNO5icAH5OQ",
+                "hits": 0,
+                "general_positive": 0.66666666666666663,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entities": [
+                    "FMbUa",
+                    "B_NPW",
+                    "B_KI2"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.66666666666666663,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "CaN7dz1nzvK",
+                "inherited_locations": [
+                    "B_NPW"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Religion_Belief"
+            },
+            "time_type": "in",
+            "type": "CoOccurrence",
+            "id": "GNO5icAH5OQ",
+            "momentum": 0.0,
+            "time_fragment_context": "For that portion, he focused on the mysterious 2008 shoot-out, but now he turns to the broader question of Islam and Islamism's future in Turkmenistan."
+        },
+        {
+            "cluster_ids": [
+                "C1MnUTNTVO-"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 3: Long live the snake that does not bite me",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-3-long-live-the-snake-that-does-not-bite-me/",
+                "downloaded": "2011-03-11T09:25:27.000Z",
+                "published": "2011-03-10T23:00:44.000Z",
+                "indexed": "2011-03-10T23:00:44.000Z",
+                "id": "HHaJX"
+            },
+            "tagged_fragment": "For that portion, he focused on the mysterious <t>2008</t> shoot-out, but now he turns to the broader question of <e id=bfDNB><e id=bfDNB>Islam</e></e> and <e id=GlyJt><e id=GlyJt>Islamism</e></e>'s future in <e id=B_NPW><e id=B_NPW>Turkmenistan</e></e>",
+            "fragment": "For that portion, he focused on the mysterious 2008 shoot-out, but now he turns to the broader question of Islam and Islamism's future in Turkmenistan.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "For that portion, he focused on the mysterious 2008 shoot-out, but now he turns to the broader question of Islam and Islamism's future in Turkmenistan.",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNO5icAH5OS",
+                "hits": 0,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.29032258064516125,
+                "negative": 0.0,
+                "entities": [
+                    "bfDNB",
+                    "GlyJt",
+                    "B_NPW"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.29032258064516125,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "GZfKwO2unuV",
+                "inherited_locations": [
+                    "B_NPW"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Religion_Belief"
+            },
+            "time_type": "in",
+            "type": "CoOccurrence",
+            "id": "GNO5icAH5OS",
+            "momentum": 0.0,
+            "time_fragment_context": "For that portion, he focused on the mysterious 2008 shoot-out, but now he turns to the broader question of Islam and Islamism's future in Turkmenistan."
+        },
+        {
+            "cluster_ids": [
+                "B_VS_kZgqp-"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 1.5: the mysterious 2008 shoot-out",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-15-the-mysterious-2008-shoot-out/",
+                "downloaded": "2011-03-08T23:12:10.000Z",
+                "published": "2011-03-08T23:00:46.000Z",
+                "indexed": "2011-03-08T23:00:46.000Z",
+                "id": "HF4nC"
+            },
+            "tagged_fragment": "<i id=GNOPWeAJGnV><e id=B_NPW>Turkmenistan</e>’s hidden <e id=bfNAQ>Islamists</e>, part 1.5: the mysterious <t>2008</t> shoot-out.</i>",
+            "fragment": "Turkmenistan’s hidden Islamists, part 1.5: the mysterious 2008 shoot-out.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Turkmenistan’s hidden Islamists, part 1.5: the mysterious 2008 shoot-out.",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNOPWeAJGnV",
+                "hits": 0,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.59999999999999998,
+                "negative": 0.0,
+                "entities": [
+                    "bfNAQ",
+                    "B_NPW"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.59999999999999998,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "EwSr5uXuN5G",
+                "inherited_locations": [
+                    "B_NPW"
+                ],
+                "general_negative": 0.0
+            },
+            "time_type": "in",
+            "type": "CoOccurrence",
+            "id": "GNOPWeAJGnV",
+            "momentum": 0.0,
+            "time_fragment_context": "Turkmenistan’s hidden Islamists, part 1.5: the mysterious 2008 shoot-out."
+        },
+        {
+            "cluster_ids": [
+                "BR2u2LE2REC"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 3: Long live the snake that does not bite me",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-3-long-live-the-snake-that-does-not-bite-me/",
+                "downloaded": "2011-03-11T09:25:27.000Z",
+                "published": "2011-03-10T23:00:44.000Z",
+                "indexed": "2011-03-10T23:00:44.000Z",
+                "id": "HHaJX"
+            },
+            "tagged_fragment": "focused on the mysterious <t>2008</t> shoot-out, but now he turns...<i id=GNO5icAH5OU>neweurasia: How much support does <e id=bfDNB><e id=bfDNB>Islam</e></e> have among the young people in <e id=B_NPW><e id=B_NPW>Turkmenistan</e></e>?</i>",
+            "fragment": "neweurasia: How much support does Islam have among the young people in Turkmenistan?",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "neweurasia: How much support does Islam have among the young people in Turkmenistan?",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNO5icAH5OU",
+                "hits": 0,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entities": [
+                    "bfDNB",
+                    "B_NPW"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "D3OPl8p-wJJ",
+                "inherited_locations": [
+                    "B_NPW"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Religion_Belief"
+            },
+            "time_type": "in",
+            "type": "CoOccurrence",
+            "id": "GNO5icAH5OU",
+            "momentum": 0.0,
+            "time_fragment_context": "For that portion, he focused on the mysterious 2008 shoot-out, but now he turns to the broader question of Islam and Islamism's future in Turkmenistan."
+        },
+        {
+            "cluster_ids": [
+                "DTLr1JzQoDu",
+                "BxVsPgu_C2B",
+                "HdkU6FqSeNk"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Pioneering the Turkmennet, part 3: a world of possibilities",
+                "url": "http://www.neweurasia.net/business-and-economics/pioneering-the-turkmenet-part-3-a-world-of-possibilities/",
+                "downloaded": "2010-12-24T07:15:27.000Z",
+                "published": "2010-12-23T23:00:39.000Z",
+                "indexed": "2010-12-23T23:00:39.000Z",
+                "id": "G1iJ2"
+            },
+            "tagged_fragment": "<i id=GM1hUXAMsfl><e id=gqTcy>Mamedov</e>: <t>Two years ago</t>, <e id=B_NPW>Turkmenistan</e> was not even among the top 10 countries from which people were accessing Tmhits.</i>",
+            "fragment": "Mamedov: Two years ago, Turkmenistan was not even among the top 10 countries from which people were accessing Tmhits.",
+            "time_fragment": "Two years ago",
+            "stop": "2008-12-23T23:59:59.000Z",
+            "item_fragment": "Mamedov: Two years ago, Turkmenistan was not even among the top 10 countries from which people were accessing Tmhits.",
+            "precision": "day",
+            "start": "2008-12-23T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GM1hUXAMsfl",
+                "hits": 0,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entities": [
+                    "gqTcy",
+                    "B_NPW"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "FK3UuxE2lG-",
+                "inherited_locations": [
+                    "B_NPW"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Technology_Internet"
+            },
+            "time_type": "in",
+            "type": "CoOccurrence",
+            "id": "GM1hUXAMsfl",
+            "momentum": 0.0,
+            "time_fragment_context": "Mamedov: Two years ago, Turkmenistan was not even among the top 10 countries from which people were accessing Tmhits."
+        },
+        {
+            "cluster_ids": [
+                "CoQfcNgcq1m"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-2-the-truth-behind-the-2008-gun-fight/",
+                "downloaded": "2011-03-08T23:12:10.000Z",
+                "published": "2011-03-08T23:01:17.000Z",
+                "indexed": "2011-03-08T23:01:17.000Z",
+                "id": "HF4nB"
+            },
+            "tagged_fragment": "first dealing with the <t>2008</t> shooting, the second dealing...What <e id=t7ZW_>he</e> has to say at all levels will cast light not only upon <i id=GNOPW9AJD1Y><e id=B_NPW>Turkmenistan</e></i>'s hidden <e id=bfNAQ>Islamists</e>, but our government's hidden face.",
+            "fragment": "What he has to say at all levels will cast light not only upon Turkmenistan's hidden Islamists, but our government's hidden face.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Turkmenistan",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNOPW9AJD1Y",
+                "hits": 63352,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entity": "B_NPW",
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "uzPbSEZFoh",
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GNOPW9AJD1Y",
+            "momentum": 0.0016213673232339286,
+            "time_fragment_context": "Consequently, I've divided this interview into two parts, the first dealing with the 2008 shooting, the second dealing with Islamism's prospects in Turkmenistan."
+        },
+        {
+            "cluster_ids": [
+                "BPS_ZZqtLNG"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-2-the-truth-behind-the-2008-gun-fight/",
+                "downloaded": "2011-03-08T23:12:10.000Z",
+                "published": "2011-03-08T23:01:17.000Z",
+                "indexed": "2011-03-08T23:01:17.000Z",
+                "id": "HF4nB"
+            },
+            "tagged_fragment": "Consequently, I've divided this interview into two parts, the first dealing with the <t>2008</t> shooting, the second dealing with <e id=Xov_k>Islamism</e>'s prospects in <i id=GNOPW9AJD1W><e id=B_NPW>Turkmenistan</e></i>.",
+            "fragment": "Consequently, I've divided this interview into two parts, the first dealing with the 2008 shooting, the second dealing with Islamism's prospects in Turkmenistan.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Turkmenistan",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNOPW9AJD1W",
+                "hits": 63352,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.31034482758620691,
+                "negative": 0.0,
+                "entity": "B_NPW",
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.31034482758620691,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "uzPbSEZFoh",
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GNOPW9AJD1W",
+            "momentum": 0.0016213673232339286,
+            "time_fragment_context": "Consequently, I've divided this interview into two parts, the first dealing with the 2008 shooting, the second dealing with Islamism's prospects in Turkmenistan."
+        },
+        {
+            "cluster_ids": [
+                "GYBcOUG3um"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 1.5: the mysterious 2008 shoot-out",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-15-the-mysterious-2008-shoot-out/",
+                "downloaded": "2011-03-08T23:12:10.000Z",
+                "published": "2011-03-08T23:00:46.000Z",
+                "indexed": "2011-03-08T23:00:46.000Z",
+                "id": "HF4nC"
+            },
+            "tagged_fragment": "<i id=GNOPWeAJGmT><e id=B_NPW>Turkmenistan</e></i>’s hidden <e id=bfNAQ>Islamists</e>, part 1.5: the mysterious <t>2008</t> shoot-out.",
+            "fragment": "Turkmenistan’s hidden Islamists, part 1.5: the mysterious 2008 shoot-out.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Turkmenistan",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNOPWeAJGmT",
+                "hits": 63352,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.59999999999999998,
+                "negative": 0.0,
+                "entity": "B_NPW",
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.59999999999999998,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "uzPbSEZFoh",
+                "general_negative": 0.0
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GNOPWeAJGmT",
+            "momentum": 0.0016213673232339286,
+            "time_fragment_context": "Turkmenistan’s hidden Islamists, part 1.5: the mysterious 2008 shoot-out."
+        },
+        {
+            "cluster_ids": [
+                "CHYNzXIP5a"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-2-the-truth-behind-the-2008-gun-fight/",
+                "downloaded": "2011-03-08T23:12:10.000Z",
+                "published": "2011-03-08T23:01:17.000Z",
+                "indexed": "2011-03-08T23:01:17.000Z",
+                "id": "HF4nB"
+            },
+            "tagged_fragment": "<i id=GNOPW9AJD0p><e id=B_NPW>Turkmenistan</e></i>’s hidden <e id=bfNAQ>Islamists</e>, part 2: the truth behind the <t>2008</t> gun fight?",
+            "fragment": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Turkmenistan",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNOPW9AJD0p",
+                "hits": 63352,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entity": "B_NPW",
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "uzPbSEZFoh",
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GNOPW9AJD0p",
+            "momentum": 0.0016213673232339286,
+            "time_fragment_context": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?"
+        },
+        {
+            "cluster_ids": [
+                "Ywqeve7hPK",
+                "B6wDDK60Zrd",
+                "CEfUXEJ32a4"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Pioneering the Turkmennet, part 3: a world of possibilities",
+                "url": "http://www.neweurasia.net/business-and-economics/pioneering-the-turkmenet-part-3-a-world-of-possibilities/",
+                "downloaded": "2010-12-24T07:15:27.000Z",
+                "published": "2010-12-23T23:00:39.000Z",
+                "indexed": "2010-12-23T23:00:39.000Z",
+                "id": "G1iJ2"
+            },
+            "tagged_fragment": "<e id=gqTcy>Mamedov</e>: <t>Two years ago</t>, <i id=GM1hUXAMsew><e id=B_NPW>Turkmenistan</e></i> was not even among the top 10 countries from which people were accessing Tmhits.",
+            "fragment": "Mamedov: Two years ago, Turkmenistan was not even among the top 10 countries from which people were accessing Tmhits.",
+            "time_fragment": "Two years ago",
+            "stop": "2008-12-23T23:59:59.000Z",
+            "item_fragment": "Turkmenistan",
+            "precision": "day",
+            "start": "2008-12-23T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GM1hUXAMsew",
+                "hits": 63328,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entity": "B_NPW",
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "uzPbSEZFoh",
+                "general_negative": 0.0,
+                "document_category": "Technology_Internet"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GM1hUXAMsew",
+            "momentum": 0.0013904945414995268,
+            "time_fragment_context": "Mamedov: Two years ago, Turkmenistan was not even among the top 10 countries from which people were accessing Tmhits."
+        },
+        {
+            "cluster_ids": [
+                "BZcFm53X18q"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-2-the-truth-behind-the-2008-gun-fight/",
+                "downloaded": "2011-03-08T23:12:10.000Z",
+                "published": "2011-03-08T23:01:17.000Z",
+                "indexed": "2011-03-08T23:01:17.000Z",
+                "id": "HF4nB"
+            },
+            "tagged_fragment": "have the inside story of <t>2008</t>'s mysterious shoot-out...More than two years have passed since mysterious armed clashes erupted in the <e id=t7ZW2>Hitrowka</e> district of <i id=GNOPW9AJD0z><e id=CAqRo>Ashgabat</e></i>.",
+            "fragment": "More than two years have passed since mysterious armed clashes erupted in the Hitrowka district of Ashgabat.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Ashgabat",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNOPW9AJD0z",
+                "hits": 6376,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entity": "CAqRo",
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "FlnkUpQ4a4P",
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GNOPW9AJD0z",
+            "momentum": 0.0012345635391656882,
+            "time_fragment_context": "Editor's note: neweurasia's Annasoltan's search for insight into the underground Islamist community has turned up a surprising lead: a man who claims to have the inside story of 2008's mysterious shoot-out in Ashgabat."
+        },
+        {
+            "cluster_ids": [
+                "BZcFm53X18q"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 2: the truth behind the 2008 gun fight?",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-2-the-truth-behind-the-2008-gun-fight/",
+                "downloaded": "2011-03-08T23:12:10.000Z",
+                "published": "2011-03-08T23:01:17.000Z",
+                "indexed": "2011-03-08T23:01:17.000Z",
+                "id": "HF4nB"
+            },
+            "tagged_fragment": "the underground <e id=bfJtR>Islamist</e> community has turned up a surprising lead: a man who claims to have the inside story of <t>2008</t>'s mysterious shoot-out in <i id=GNOPW9AJD0w><e id=CAqRo>Ashgabat</e></i>.",
+            "fragment": "Editor's note: neweurasia's Annasoltan's search for insight into the underground Islamist community has turned up a surprising lead: a man who claims to have the inside story of 2008's mysterious shoot-out in Ashgabat.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Ashgabat",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNOPW9AJD0w",
+                "hits": 6376,
+                "general_positive": 0.0,
+                "positive": 0.21428571428571427,
+                "fragment_count": 1,
+                "violence": 0.21428571428571427,
+                "negative": 0.0,
+                "entity": "CAqRo",
+                "sentiments": {
+                    "positive": 0.21428571428571427,
+                    "activism": 0.0,
+                    "violence": 0.21428571428571427,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.21428571428571427
+                },
+                "canonic_id": "FlnkUpQ4a4P",
+                "general_negative": 0.21428571428571427,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GNOPW9AJD0w",
+            "momentum": 0.0012345635391656882,
+            "time_fragment_context": "Editor's note: neweurasia's Annasoltan's search for insight into the underground Islamist community has turned up a surprising lead: a man who claims to have the inside story of 2008's mysterious shoot-out in Ashgabat."
+        },
+        {
+            "cluster_ids": [
+                "GYBcOUG3um"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 3: Long live the snake that does not bite me",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-3-long-live-the-snake-that-does-not-bite-me/",
+                "downloaded": "2011-03-11T09:25:27.000Z",
+                "published": "2011-03-10T23:00:44.000Z",
+                "indexed": "2011-03-10T23:00:44.000Z",
+                "id": "HHaJX"
+            },
+            "tagged_fragment": "For that portion, he focused on the mysterious <t>2008</t> shoot-out, but now he turns to the broader question of <e id=bfDNB><e id=bfDNB>Islam</e></e> and <e id=GlyJt><e id=GlyJt>Islamism</e></e>'s future in <i id=GNO5icAH5NE><e id=B_NPW><e id=B_NPW>Turkmenistan</e></e></i>.",
+            "fragment": "For that portion, he focused on the mysterious 2008 shoot-out, but now he turns to the broader question of Islam and Islamism's future in Turkmenistan.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Turkmenistan",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNO5icAH5NE",
+                "hits": 70378,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.29032258064516125,
+                "negative": 0.0,
+                "entity": "B_NPW",
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.29032258064516125,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "uzPbSEZFoh",
+                "general_negative": 0.0,
+                "document_category": "Religion_Belief"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GNO5icAH5NE",
+            "momentum": 0.0010325069929247534,
+            "time_fragment_context": "For that portion, he focused on the mysterious 2008 shoot-out, but now he turns to the broader question of Islam and Islamism's future in Turkmenistan."
+        },
+        {
+            "cluster_ids": [
+                "GYBcOUG3um"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 3: Long live the snake that does not bite me",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-3-long-live-the-snake-that-does-not-bite-me/",
+                "downloaded": "2011-03-11T09:25:27.000Z",
+                "published": "2011-03-10T23:00:44.000Z",
+                "indexed": "2011-03-10T23:00:44.000Z",
+                "id": "HHaJX"
+            },
+            "tagged_fragment": "focused on the mysterious <t>2008</t> shoot-out, but now he turns...my last post, I published the first half of an interview with <e id=FMbUa><e id=FMbUa>Abdulaziz</e></e>, a man highly knowledgeable about <i id=GNO5icAH5M8><e id=B_NPW><e id=B_NPW>Turkmenistan</e></e></i>'s underground <e id=B_KI2><e id=B_KI2>Islamist</e></e> community.",
+            "fragment": "In my last post, I published the first half of an interview with Abdulaziz, a man highly knowledgeable about Turkmenistan's underground Islamist community.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Turkmenistan",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNO5icAH5M8",
+                "hits": 70378,
+                "general_positive": 0.66666666666666663,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entity": "B_NPW",
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.66666666666666663,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "uzPbSEZFoh",
+                "general_negative": 0.0,
+                "document_category": "Religion_Belief"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GNO5icAH5M8",
+            "momentum": 0.0010325069929247534,
+            "time_fragment_context": "For that portion, he focused on the mysterious 2008 shoot-out, but now he turns to the broader question of Islam and Islamism's future in Turkmenistan."
+        },
+        {
+            "cluster_ids": [
+                "GYBcOUG3um"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 3: Long live the snake that does not bite me",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-3-long-live-the-snake-that-does-not-bite-me/",
+                "downloaded": "2011-03-11T09:25:27.000Z",
+                "published": "2011-03-10T23:00:44.000Z",
+                "indexed": "2011-03-10T23:00:44.000Z",
+                "id": "HHaJX"
+            },
+            "tagged_fragment": "focused on the mysterious <t>2008</t> shoot-out, but now he turns...neweurasia: How much support does <e id=bfDNB><e id=bfDNB>Islam</e></e> have among the young people in <i id=GNO5icAH5NI><e id=B_NPW><e id=B_NPW>Turkmenistan</e></e></i>?",
+            "fragment": "neweurasia: How much support does Islam have among the young people in Turkmenistan?",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Turkmenistan",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNO5icAH5NI",
+                "hits": 70378,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 1,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entity": "B_NPW",
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "uzPbSEZFoh",
+                "general_negative": 0.0,
+                "document_category": "Religion_Belief"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GNO5icAH5NI",
+            "momentum": 0.0010325069929247534,
+            "time_fragment_context": "For that portion, he focused on the mysterious 2008 shoot-out, but now he turns to the broader question of Islam and Islamism's future in Turkmenistan."
+        },
+        {
+            "cluster_ids": [
+                "GMtzjCRYSzO"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Provides the latest RSS feeds for Breaking News. For more headlines on Breaking, National, Business, Finance, Sports and World News, visit our home page",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSEs9",
+                    "id": "JtIfms",
+                    "name": "Kazakhstan News"
+                },
+                "language": "eng",
+                "title": "Turkmenistan Consultations Pose Test of EU’s Resolve",
+                "url": "http://www.kazakhstannews.net/index.php/sid/214350881/scat/929bcf2071e81801",
+                "downloaded": "2013-05-07T20:32:55.933Z",
+                "published": "2013-05-07T20:06:22.000Z",
+                "indexed": "2013-05-07T20:33:08.036Z",
+                "id": "J1I264"
+            },
+            "tagged_fragment": "<i id=GRS58-Ayl_6>In <t>2008</t>, the <e id=B_E9D>European Parliament</e> formulated human rights benchmarks ...</i>",
+            "fragment": "In 2008, the European Parliament formulated human rights benchmarks ...",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "In 2008, the European Parliament formulated human rights benchmarks ...",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GRS58-Ayl_6",
+                "hits": 49237601,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 2,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entities": [
+                    "B_E9D"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "CHXMzf0Dw5R",
+                "inherited_locations": [
+                    "CAqRo"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "Event",
+            "id": "GRS58-Ayl_6",
+            "momentum": 1.0,
+            "time_fragment_context": "In 2008, the European Parliament formulated human rights benchmarks ..."
+        },
+        {
+            "cluster_ids": [
+                "GMtzjCRYSzO"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Provides the latest RSS feeds for Breaking International News. For more headlines on Breaking, National, Business, Finance, Sports and World News, visit our home page",
+                    "country": "Central Asia",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSEs9",
+                    "id": "JvDnQK",
+                    "name": "Central Asia Times"
+                },
+                "language": "eng",
+                "title": "Turkmenistan Consultations Pose Test of EU’s Resolve",
+                "url": "http://www.centralasiatimes.com/index.php/sid/214350881/scat/929bcf2071e81801",
+                "downloaded": "2013-05-07T21:04:16.838Z",
+                "published": "2013-05-07T20:06:22.000Z",
+                "indexed": "2013-05-07T21:04:33.041Z",
+                "id": "J1JGRU"
+            },
+            "tagged_fragment": "<i id=GRS58-A0RIC>In <t>2008</t>, the <e id=B_E9D>European Parliament</e> formulated human rights benchmarks ...</i>",
+            "fragment": "In 2008, the European Parliament formulated human rights benchmarks ...",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "In 2008, the European Parliament formulated human rights benchmarks ...",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GRS58-A0RIC",
+                "hits": 49346837,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 5,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entities": [
+                    "B_E9D"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "CHXMzf0Dw5R",
+                "inherited_locations": [
+                    "CAqRo"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "Event",
+            "id": "GRS58-A0RIC",
+            "momentum": 1.0,
+            "time_fragment_context": "In 2008, the European Parliament formulated human rights benchmarks ..."
+        },
+        {
+            "cluster_ids": [
+                "GMtzjCRYSzO"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Provides the latest RSS feeds for Central Asia News. For more headlines on Breaking, National, Business, Finance, Sports and World News, visit our home page",
+                    "country": "Central Asia",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSEs9",
+                    "id": "Juf1dW",
+                    "name": "Central Asia News"
+                },
+                "language": "eng",
+                "title": "Turkmenistan Consultations Pose Test of EU’s Resolve",
+                "url": "http://www.centralasianews.net/index.php/sid/214350881/scat/929bcf2071e81801",
+                "downloaded": "2013-05-07T20:44:58.604Z",
+                "published": "2013-05-07T20:06:22.000Z",
+                "indexed": "2013-05-07T20:45:00.990Z",
+                "id": "J1I8uH"
+            },
+            "tagged_fragment": "<i id=GRS58-AzRp_>In <t>2008</t>, the <e id=B_E9D>European Parliament</e> formulated human rights benchmarks ...</i>",
+            "fragment": "In 2008, the European Parliament formulated human rights benchmarks ...",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "In 2008, the European Parliament formulated human rights benchmarks ...",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GRS58-AzRp_",
+                "hits": 49281635,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 3,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entities": [
+                    "B_E9D"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "CHXMzf0Dw5R",
+                "inherited_locations": [
+                    "CAqRo"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "Event",
+            "id": "GRS58-AzRp_",
+            "momentum": 1.0,
+            "time_fragment_context": "In 2008, the European Parliament formulated human rights benchmarks ..."
+        },
+        {
+            "cluster_ids": [
+                "B_VS_kZgqp-"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 4: new video of the 2008 shoot-out",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-4-videos-of-the-2008-shoot-out/",
+                "downloaded": "2011-03-22T23:23:10.000Z",
+                "published": "2011-03-22T23:00:54.000Z",
+                "indexed": "2011-03-22T23:00:54.000Z",
+                "id": "HO01K"
+            },
+            "tagged_fragment": "<e id=B_NPW>Turkmenistan</e>’s hidden <i id=GUFsxc><e id=bfNAQ>Islamists</e></i>, part 4: new video of the <t>2008</t> shoot-out.",
+            "fragment": "Turkmenistan’s hidden Islamists, part 4: new video of the 2008 shoot-out.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Turkmenistan’s hidden Islamists, part 4: new video of the 2008 shoot-out.",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNS2qmAKNOE",
+                "hits": 12612,
+                "positive": 0.0,
+                "negative": 0.0,
+                "entities": [
+                    "B_NPW",
+                    "bfNAQ"
+                ],
+                "canonic_id": "EwSr5uXuN5G",
+                "inherited_locations": [
+                    "B_NPW"
+                ],
+                "document_category": ""
+            },
+            "time_type": "in",
+            "type": "CoOccurrence",
+            "id": "GNS2qmAKNOE",
+            "momentum": 0.044691399931314851,
+            "time_fragment_context": "Turkmenistan’s hidden Islamists, part 4: new video of the 2008 shoot-out."
+        },
+        {
+            "cluster_ids": [],
+            "document": {
+                "sourceId": {
+                    "description": "Provides the latest RSS feeds for Breaking International News. For more headlines on Breaking, National, Business, Finance, Sports and World News, visit our home page",
+                    "country": "Central Asia",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSEs9",
+                    "id": "JvDnQK",
+                    "name": "Central Asia Times"
+                },
+                "language": "eng",
+                "title": "Turkmenistan Consultations Pose Test of EU’s Resolve",
+                "url": "http://www.centralasiatimes.com/index.php/sid/214350881/scat/929bcf2071e81801",
+                "downloaded": "2013-05-07T21:04:16.838Z",
+                "published": "2013-05-07T20:06:22.000Z",
+                "indexed": "2013-05-07T21:04:33.207Z",
+                "id": "J1JGRU"
+            },
+            "tagged_fragment": "In <t>2008</t>, the <i id=GRS58-A0RH6><e id=B_E9D>European Parliament</e></i> formulated human rights benchmarks ...",
+            "fragment": "In 2008, the European Parliament formulated human rights benchmarks ...",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "European Parliament",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GRS58-A0RH6",
+                "hits": 113767,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 5,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entity": "B_E9D",
+                "entities": [
+                    "B_E9D"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "DqPr-iA7lZL",
+                "inherited_locations": [
+                    "CAqRo"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GRS58-A0RH6",
+            "momentum": 0.016505133418348264,
+            "time_fragment_context": "In 2008, the European Parliament formulated human rights benchmarks ..."
+        },
+        {
+            "cluster_ids": [],
+            "document": {
+                "sourceId": {
+                    "description": "Provides the latest RSS feeds for Central Asia News. For more headlines on Breaking, National, Business, Finance, Sports and World News, visit our home page",
+                    "country": "Central Asia",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSEs9",
+                    "id": "Juf1dW",
+                    "name": "Central Asia News"
+                },
+                "language": "eng",
+                "title": "Turkmenistan Consultations Pose Test of EU’s Resolve",
+                "url": "http://www.centralasianews.net/index.php/sid/214350881/scat/929bcf2071e81801",
+                "downloaded": "2013-05-07T20:44:58.604Z",
+                "published": "2013-05-07T20:06:22.000Z",
+                "indexed": "2013-05-07T20:45:00.997Z",
+                "id": "J1I8uH"
+            },
+            "tagged_fragment": "In <t>2008</t>, the <i id=GRS58-AzRp3><e id=B_E9D>European Parliament</e></i> formulated human rights benchmarks ...",
+            "fragment": "In 2008, the European Parliament formulated human rights benchmarks ...",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "European Parliament",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GRS58-AzRp3",
+                "hits": 113762,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 3,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entity": "B_E9D",
+                "entities": [
+                    "B_E9D"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "DqPr-iA7lZL",
+                "inherited_locations": [
+                    "CAqRo"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GRS58-AzRp3",
+            "momentum": 0.016411361590120691,
+            "time_fragment_context": "In 2008, the European Parliament formulated human rights benchmarks ..."
+        },
+        {
+            "cluster_ids": [],
+            "document": {
+                "sourceId": {
+                    "description": "Provides the latest RSS feeds for Breaking News. For more headlines on Breaking, National, Business, Finance, Sports and World News, visit our home page",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSEs9",
+                    "id": "JtIfms",
+                    "name": "Kazakhstan News"
+                },
+                "language": "eng",
+                "title": "Turkmenistan Consultations Pose Test of EU’s Resolve",
+                "url": "http://www.kazakhstannews.net/index.php/sid/214350881/scat/929bcf2071e81801",
+                "downloaded": "2013-05-07T20:32:55.933Z",
+                "published": "2013-05-07T20:06:22.000Z",
+                "indexed": "2013-05-07T20:33:06.851Z",
+                "id": "J1I264"
+            },
+            "tagged_fragment": "In <t>2008</t>, the <i id=GRS58-Ayl_y><e id=B_E9D>European Parliament</e></i> formulated human rights benchmarks ...",
+            "fragment": "In 2008, the European Parliament formulated human rights benchmarks ...",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "European Parliament",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GRS58-Ayl_y",
+                "hits": 113755,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "fragment_count": 2,
+                "violence": 0.0,
+                "negative": 0.0,
+                "entity": "B_E9D",
+                "entities": [
+                    "B_E9D"
+                ],
+                "sentiments": {
+                    "positive": 0.0,
+                    "activism": 0.0,
+                    "violence": 0.0,
+                    "negative": 0.0,
+                    "general_positive": 0.0,
+                    "general_negative": 0.0
+                },
+                "canonic_id": "DqPr-iA7lZL",
+                "inherited_locations": [
+                    "CAqRo"
+                ],
+                "general_negative": 0.0,
+                "document_category": "Politics"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GRS58-Ayl_y",
+            "momentum": 0.015880271330912663,
+            "time_fragment_context": "In 2008, the European Parliament formulated human rights benchmarks ..."
+        },
+        {
+            "cluster_ids": [
+                "GYBcOUG3um"
+            ],
+            "document": {
+                "sourceId": {
+                    "description": "Neweurasia.net",
+                    "country": "Kazakhstan",
+                    "topic": "JxSEs3",
+                    "media_type": "JxSDuU",
+                    "id": "BVm",
+                    "name": "neweurasia.net"
+                },
+                "language": "eng",
+                "title": "Turkmenistan’s hidden Islamists, part 4: new video of the 2008 shoot-out",
+                "url": "http://www.neweurasia.net/politics-and-society/turkmenistans-hidden-islamists-part-4-videos-of-the-2008-shoot-out/",
+                "downloaded": "2011-03-22T23:23:10.000Z",
+                "published": "2011-03-22T23:00:54.000Z",
+                "indexed": "2011-03-22T23:00:54.000Z",
+                "id": "HO01K"
+            },
+            "tagged_fragment": "<i id=GUFsxx><e id=B_NPW>Turkmenistan</e></i>’s hidden <e id=bfNAQ>Islamists</e>, part 4: new video of the <t>2008</t> shoot-out.",
+            "fragment": "Turkmenistan’s hidden Islamists, part 4: new video of the 2008 shoot-out.",
+            "time_fragment": "2008",
+            "stop": "2008-12-31T23:59:59.000Z",
+            "item_fragment": "Turkmenistan",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GNS2qmAJbom",
+                "hits": 17528,
+                "positive": 0.0,
+                "negative": 0.0,
+                "entity": "B_NPW",
+                "canonic_id": "uzPbSEZFoh",
+                "document_category": ""
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GNS2qmAJbom",
+            "momentum": 0.0038703321466718467,
+            "time_fragment_context": "Turkmenistan’s hidden Islamists, part 4: new video of the 2008 shoot-out."
+        },
+        {
+            "cluster_ids": [
+                "CRuN7gI57SS"
+            ],
+            "document": {
+                "sourceId": {
+                    "media_type": "JxSEs2",
+                    "country": "Kazakhstan",
+                    "id": "FuA",
+                    "name": "Казахстанская Правда"
+                },
+                "language": "eng",
+                "title": "Rich harvest has not affected the prices",
+                "url": "http://www.kazpravda.kz/c/1334655584",
+                "downloaded": "2012-04-17T10:50:15.169Z",
+                "published": "2012-04-17T10:50:13.000Z",
+                "indexed": "2012-04-17T10:50:13.000Z",
+                "id": "JDuNJI"
+            },
+            "tagged_fragment": "Thus, if in <t>2008-2009</t> about 450 thousand ton of Kazakh grain was exported to <i id=GPT4tlAFjPJ><e id=B_NPW>Turkmenistan</e></i>, this season the figure reaches only 2.8 tons.",
+            "fragment": "Thus, if in 2008-2009 about 450 thousand ton of Kazakh grain was exported to Turkmenistan, this season the figure reaches only 2.8 tons.",
+            "time_fragment": "2008-2009",
+            "stop": "2009-12-31T23:59:59.000Z",
+            "item_fragment": "Turkmenistan",
+            "precision": "year",
+            "start": "2008-01-01T00:00:00.000Z",
+            "attributes": {
+                "function": "id",
+                "binning_id": "GPT4tlAFjPJ",
+                "hits": 5231,
+                "general_positive": 0.0,
+                "positive": 0.0,
+                "negative": 0.0,
+                "entity": "B_NPW",
+                "canonic_id": "uzPbSEZFoh",
+                "general_negative": 0.0,
+                "document_category": "Business_Finance"
+            },
+            "time_type": "in",
+            "type": "EntityOccurrence",
+            "id": "GPT4tlAFjPJ",
+            "momentum": 0.0015333379313714158,
+            "time_fragment_context": "Thus, if in 2008-2009 about 450 thousand ton of Kazakh grain was exported to Turkmenistan, this season the figure reaches only 2.8 tons."
+        }
+    ]
+}

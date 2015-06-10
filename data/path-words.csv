@@ -1,0 +1,1273 @@
+Word,Weight,Modularity Class
+audrey hepburn,1.92074986,3
+lace,1.771358204,2
+dance,4.716507991,3
+hats,1.408549897,3
+people,4.012233042,3
+weight loss,4.353699684,3
+velvet underground,0.640249953,2
+hip bones,2.070141516,3
+jack off jill,7.341532801,1
+maroon 5,2.283558167,1
+hoobastank,1.96343319,1
+heavy metal,3.030516446,3
+billy idol,0.939033265,1
+meditation,3.692108065,0
+arrested development,1.131108251,0
+hate,6.658599517,3
+children,2.155508177,0
+classic rock,2.219533172,0
+ozzy,0.746958279,1
+ballet,3.564058074,0
+suicide,15.579415537,3
+atheism,2.881124791,0
+icons,8.643374373,3
+paris,1.87806653,0
+sonic youth,0.853666604,2
+tolkien,1.131108251,0
+inside jokes,0.981716595,3
+thursday,5.143341293,1
+mental health,5.442124605,0
+german,1.92074986,0
+spanish,1.856724865,0
+rainbows,7.576291117,3
+girl interrupted,5.783591247,1
+teaching,1.323183237,0
+lamb of god,1.04574159,1
+flip flops,1.109766586,3
+the starting line,2.112824846,1
+family,6.125057889,3
+degrassi,5.015291303,1
+fishnet,0.9176916,3
+horror,6.743966177,2
+internet,11.71657415,3
+tatoos,0.9176916,3
+vegan,2.283558167,3
+simpsons,2.027458186,1
+doodling,1.088424921,3
+the matrix,1.04574159,0
+corsets,7.149457814,2
+green tea,2.411608158,3
+glassjaw,1.451233228,1
+bleach,1.557941553,0
+bubbles,2.219533172,3
+screaming,3.606741405,3
+monkeys,1.643308214,3
+system of a down,6.274449545,1
+hatebreed,1.067083255,1
+white stripes,0.875008269,1
+jason mraz,1.04574159,1
+school,2.646366474,3
+joy division,2.176849842,2
+clouds,2.347583163,3
+diet,1.707333209,3
+greek mythology,0.832324939,0
+loneliness,2.582341479,3
+sex and the city,2.496974818,1
+livejournal,3.62808307,3
+painting,17.564190393,0
+gum,1.323183237,3
+bob marley,1.856724865,1
+sunrises,1.109766586,3
+80s music,0.512199962,2
+diy,2.070141516,0
+bright eyes,6.936041163,1
+self injury,12.954390727,3
+sleep,9.731799294,3
+alexisonfire,1.728674874,1
+orlando bloom,1.429891562,1
+polyamory,1.365866567,0
+clothes,5.954324568,3
+moulin rouge,3.371983088,1
+cookies,2.560999814,3
+unwritten law,0.682933283,1
+rats,2.560999814,0
+porn,4.353699684,3
+bleeding,5.740907917,3
+tea,9.070207675,0
+skiing,2.240874837,3
+wrestling,0.96037493,1
+belle & sebastian,0.405491637,1
+boots,3.6707664,2
+johnny the homicidal maniac,2.176849842,2
+layouts,1.131108251,3
+doctor who,3.884183051,0
+design,1.942091525,0
+silverstein,1.600624883,1
+american idol,1.216474911,1
+foreign films,1.685991544,0
+harry potter,22.152648393,0
+rise against,1.728674874,1
+depression,25.652681473,3
+blue,3.137224772,3
+cupcakes,1.429891562,3
+plays,1.024399925,3
+darkness,7.747024438,3
+indie rock,1.04574159,1
+chicago,1.600624883,1
+sun,1.600624883,3
+cooking,10.030582606,0
+caffeine,4.118941368,2
+relient k,1.472574893,1
+bipolar,4.865899647,3
+socialism,1.152449916,0
+trigun,0.96037493,0
+freaks,2.219533172,3
+creative writing,3.009174781,0
+fetish,2.774416465,2
+sarcasm,9.326307657,2
+underoath,2.155508177,1
+fairy tales,2.304899832,0
+ipod,2.198191507,3
+exercise,4.567116335,3
+gwen stefani,1.685991544,1
+relationships,2.262216502,3
+bam margera,1.579283218,1
+bulimia,7.106774484,3
+men,3.542716409,3
+disney movies,1.237816576,3
+french,3.414666419,0
+eminem,3.649424735,1
+water,9.347649322,3
+beck,0.853666604,1
+baseball,1.429891562,3
+healing,2.091483181,0
+being alone,2.689049805,3
+vegetarianism,5.719566251,0
+screamo,2.432949823,1
+cars,3.692108065,3
+coal chamber,1.067083255,1
+reggae,0.533541627,3
+kids,1.856724865,3
+saves the day,3.393324753,1
+stuffed animals,2.048799851,3
+hot chocolate,1.408549897,3
+faeries,6.359816205,2
+vegetarian,2.625024809,2
+piercing,2.283558167,3
+armor for sleep,1.280499907,1
+museums,1.664649879,0
+tv,5.186024624,3
+techno,4.524433005,2
+pj harvey,0.853666604,2
+massage,0.618908288,3
+vinyl,1.344524902,2
+human rights,1.8353832,0
+mohawks,2.432949823,3
+love,33.997272535,3
+apple,0.426833302,3
+humour,0.853666604,0
+cell phones,1.557941553,3
+solitude,2.368924828,0
+black eyeliner,3.073199777,3
+scarves,1.173791581,3
+gigs,2.134166511,3
+toys,0.96037493,3
+pantera,1.515258223,1
+sarah mclachlan,1.579283218,1
+singing,24.948406524,3
+rainbow brite,0.981716595,1
+star wars,4.332358019,0
+iron maiden,1.00305826,2
+the daily show,1.109766586,0
+kittie,4.076258037,1
+nailpolish,1.00305826,3
+bad religion,1.685991544,1
+mae,1.00305826,1
+tears,6.274449545,3
+france,1.750016539,0
+msn,2.283558167,3
+squee,0.875008269,2
+coldplay,4.140283033,1
+new found glory,2.83844146,1
+spike,0.704274948,3
+rock climbing,0.554883293,0
+lipgloss,1.344524902,3
+tigers,0.768299944,0
+losing weight,3.777474726,3
+horses,4.993949637,0
+web design,2.817099795,0
+faith,1.685991544,0
+labyrinth,1.942091525,2
+chuck palahniuk,2.134166511,2
+beastie boys,0.512199962,1
+all american rejects,1.664649879,1
+muse,3.884183051,1
+chocolate,11.524499164,3
+taking back sunday,7.448241126,1
+people watching,1.728674874,0
+hole,2.582341479,1
+fanfiction,7.234824475,0
+rocky horror picture show,4.289674688,2
+karaoke,0.704274948,0
+women,5.292732949,0
+me,1.280499907,3
+avril lavigne,2.560999814,1
+evil,1.344524902,2
+bunnies,1.493916558,0
+animals,17.13735709,0
+fall out boy,5.719566251,1
+my friends,2.539658149,3
+science,4.097599702,0
+♪,2.7530748,3
+courtney love,1.728674874,1
+misfits,1.771358204,1
+ednos,2.83844146,3
+movies,39.908913773,3
+mall,0.576224958,3
+thin,5.292732949,3
+smile empty soul,2.390266493,1
+godsmack,2.283558167,1
+laughter,2.262216502,3
+history,8.387274391,0
+rolling stones,0.789641609,1
+vodka,6.189082884,3
+salvador dali,0.875008269,2
+frogs,1.00305826,3
+programming,1.04574159,0
+geeks,2.390266493,0
+the ataris,2.560999814,1
+halloween,6.807991173,2
+dragons,5.548832931,0
+taproot,0.853666604,1
+cows,0.853666604,3
+chevelle,1.750016539,1
+madonna,1.621966549,1
+bones,7.490924456,3
+lenore,1.152449916,2
+pink,8.515324382,3
+drama,4.375041349,3
+csi,4.204308028,0
+afi,8.920816019,1
+whips,1.515258223,3
+simple plan,3.158566437,1
+travel,4.182966363,0
+body art,1.280499907,2
+poetry,41.27478034,3
+snow patrol,1.323183237,1
+offspring,0.9176916,1
+compassion,1.024399925,0
+clubbing,1.387208232,0
+mp3s,3.307958093,3
+hugs,10.990957536,3
+nyc,1.259158242,3
+comedy,4.716507991,3
+beach,2.496974818,3
+jay and silent bob,0.939033265,1
+pizza,3.201249767,3
+one tree hill,1.579283218,1
+gaming,2.198191507,0
+punk rock,3.158566437,1
+loud music,1.237816576,3
+wicca,7.085432819,2
+summer,6.274449545,3
+vintage,4.865899647,3
+duran duran,0.704274948,2
+mest,1.750016539,1
+live music,1.408549897,3
+dinosaurs,0.896349935,0
+mac,0.981716595,3
+pro-ana,1.472574893,3
+graveyards,2.326241498,2
+adventure,1.088424921,0
+softball,1.579283218,3
+the breakfast club,2.496974818,1
+nightmare before christmas,4.097599702,1
+law,1.088424921,0
+journals,3.756133061,3
+lesbian,2.774416465,2
+long hair,2.304899832,2
+cuddling,10.094607601,3
+john lennon,1.536599888,2
+in flames,0.9176916,1
+surfing,1.643308214,3
+♥,5.698224586,3
+gilmore girls,3.606741405,1
+candles,14.256232299,3
+graphic design,2.283558167,0
+paramore,3.542716409,1
+cemeteries,2.112824846,2
+volleyball,1.8353832,3
+cigarettes,6.701282847,3
+si,7.853732763,3
+green,2.454291488,3
+scrubs,2.496974818,0
+crafts,2.582341479,0
+requiem for a dream,2.646366474,1
+addiction,2.283558167,3
+south park,4.652482996,1
+at the drive in,0.448174967,1
+necklaces,0.96037493,3
+wind,1.195133246,3
+wine,2.560999814,0
+ncis,2.240874837,0
+shoes,6.33847454,3
+cheese,7.042749489,3
+le tigre,1.387208232,1
+alice in chains,1.96343319,1
+fall,1.8353832,3
+sailor moon,2.625024809,0
+enya,1.152449916,2
+surrealism,1.643308214,0
+taking pictures,2.155508177,3
+teenage mutant ninja turtles,0.704274948,1
+london,3.307958093,0
+broadway,2.71039147,3
+cold,2.454291488,1
+drinking,7.981782754,3
+astrology,5.997007898,0
+linguistics,1.600624883,0
+bleeding through,0.875008269,1
+pens,1.643308214,3
+blink182,0.533541627,1
+x-files,1.365866567,0
+talking on the phone,1.088424921,3
+board games,0.853666604,0
+glee,1.79269987,0
+static x,0.554883293,1
+blogging,2.091483181,0
+aqua teen hunger force,1.685991544,1
+self harm,8.579349377,3
+orange,0.939033265,3
+slc punk,1.600624883,1
+travelling,2.966491451,3
+soccer,3.500033079,3
+dolls,1.280499907,2
+coffee,17.436140402,3
+food,10.670832559,3
+rob zombie,2.731733135,1
+insomnia,7.789707768,2
+elliott smith,1.942091525,2
+band,1.387208232,3
+cutting,30.155772813,3
+therapy,3.307958093,0
+starbucks,5.143341293,3
+kiss,0.853666604,3
+hands,1.8353832,3
+killswitch engage,1.387208232,1
+magic,4.780532986,0
+fear,4.182966363,3
+mindless self indulgence,3.862841386,1
+twilight,5.676882921,0
+silver,2.582341479,3
+bubble baths,1.344524902,3
+pulp fiction,1.728674874,1
+your mom,1.429891562,1
+reel big fish,1.195133246,1
+opera,1.579283218,0
+making out,3.734791395,3
+anne rice,4.012233042,2
+bass guitar,1.387208232,2
+lingerie,1.237816576,0
+finding nemo,1.365866567,1
+bowling,1.856724865,3
+diet coke,2.432949823,3
+cursive,2.240874837,1
+black nail polish,1.856724865,3
+friendship,1.621966549,0
+malice mizer,1.216474911,0
+our lady peace,2.027458186,1
+polka dots,1.365866567,3
+marilyn manson,9.411674317,1
+distillers,0.597566623,1
+england,2.689049805,0
+snakes,2.176849842,2
+latin,1.621966549,0
+house,6.231766214,0
+fish,1.515258223,3
+being in love,1.814041535,3
+abuse,3.243933098,3
+books,32.567380972,0
+smoothies,0.768299944,3
+thirteen,4.823216316,1
+my ruin,1.515258223,2
+atreyu,3.884183051,1
+nin,2.945149786,1
+ghosts,4.652482996,2
+dr pepper,0.640249953,3
+obsession,2.347583163,3
+anarchy,1.87806653,3
+ice cream,4.353699684,3
+er,1.429891562,0
+canada,2.411608158,3
+living,1.728674874,3
+empire records,1.685991544,1
+evanescence,10.905590876,1
+coheed and cambria,2.966491451,1
+space,1.173791581,0
+electronica,0.746958279,0
+andy warhol,0.875008269,2
+activism,2.7530748,0
+cameras,3.201249767,3
+chaos,1.856724865,2
+bauhaus,1.493916558,2
+funeral for a friend,1.771358204,1
+&hearts;,2.667708139,3
+acting,8.643374373,3
+stuff,2.134166511,3
+health,2.304899832,3
+jeff buckley,1.195133246,2
+rem,0.618908288,1
+medicine,1.750016539,0
+anorexia,11.524499164,3
+red,4.375041349,3
+horseback riding,1.664649879,3
+britney spears,1.984774856,1
+goth,7.17079948,2
+philosophy,11.545840829,0
+bass,2.091483181,3
+outkast,0.597566623,1
+led zeppelin,2.603683144,1
+existentialism,1.557941553,0
+local bands,1.088424921,1
+boobs,1.536599888,3
+edward gorey,1.131108251,2
+oasis,1.92074986,1
+gackt,1.643308214,0
+california,1.984774856,3
+yuri,1.750016539,0
+ben folds,0.789641609,1
+country music,0.896349935,3
+poems,5.591516261,3
+weed,4.50309134,3
+metallica,4.375041349,1
+hot topic,3.243933098,1
+flying,1.301841572,0
+language,0.725616614,0
+scars,14.576357276,3
+bisexuality,7.853732763,2
+bowling for soup,1.365866567,1
+alcohol,11.289740848,3
+butterflies,3.158566437,3
+disturbed,3.692108065,1
+serenity,1.259158242,0
+neopets,1.429891562,0
+biting,5.442124605,3
+hardcore,2.902466456,1
+smashing pumpkins,3.734791395,1
+blood,23.219731649,3
+emotion,1.408549897,3
+virgin suicides,0.554883293,1
+indie,3.62808307,1
+industrial,3.329299758,2
+ashlee simpson,0.96037493,1
+wicked,1.643308214,0
+the smiths,3.414666419,2
+magick,2.79575813,2
+jesus,2.368924828,3
+linkin park,10.628149229,1
+fantasy,10.158632596,0
+bjork,2.518316484,2
+death cab for cutie,4.246991358,1
+billy talent,1.493916558,1
+christianity,2.432949823,0
+pokemon,2.390266493,0
+lolita,2.006116521,0
+sensuality,0.9176916,2
+angelina jolie,7.106774484,3
+basketball,2.283558167,3
+jet,0.682933283,1
+velvet,1.131108251,2
+lacuna coil,2.79575813,1
+phantom of the opera,2.475633153,0
+myspace,3.649424735,3
+girls,10.521440903,3
+antiques,1.237816576,0
+fiction,4.311016354,0
+paint,1.109766586,3
+new york,2.112824846,3
+kurt vonnegut,1.04574159,2
+donnie darko,7.149457814,1
+ebm,0.768299944,2
+sylvia plath,6.445182866,2
+dogs,10.201315927,0
+rocky horror,0.9176916,0
+eyes,6.317132875,3
+mars volta,0.298783311,1
+desperate housewives,1.579283218,0
+lighters,1.942091525,3
+tool,6.936041163,1
+trapt,1.984774856,1
+the oc,1.579283218,1
+nirvana,12.122065787,1
+burlesque,1.493916558,0
+blondie,1.387208232,1
+trent reznor,1.195133246,2
+videogames,0.405491637,0
+nudity,1.04574159,2
+flowers,5.634199591,3
+adult swim,2.7530748,2
+television,1.387208232,0
+anxiety,7.811049433,3
+scrapbooking,1.621966549,3
+inuyasha,1.451233228,0
+nofx,2.7530748,1
+led zepplin,0.9176916,1
+resident evil,1.387208232,2
+death metal,1.472574893,2
+kink,0.939033265,0
+ebay,1.814041535,3
+science fiction,3.798816391,0
+autumn,4.140283033,0
+orgy,2.326241498,1
+knives,7.533607787,3
+beauty,7.320191135,3
+letters,2.518316484,3
+outdoors,1.024399925,0
+torchwood,1.771358204,0
+having fun,1.96343319,3
+short stories,1.237816576,0
+sublime,4.396383014,1
+thai food,0.682933283,0
+audioslave,1.323183237,1
+fashion,10.75619922,3
+forensics,1.451233228,2
+ana,6.167741219,3
+angel,2.390266493,0
+bisexual,5.655541256,2
+hellsing,1.216474911,0
+marijuana,3.073199777,3
+incubus,5.868957907,1
+writing poetry,1.387208232,1
+talking,7.042749489,3
+murder,1.515258223,3
+tanning,1.451233228,3
+the killers,3.820158056,1
+rap,1.79269987,1
+anger,4.012233042,3
+grunge,1.600624883,2
+hentai,0.96037493,2
+modest mouse,3.265274763,1
+murderdolls,1.515258223,1
+the office,1.79269987,0
+rufio,1.643308214,1
+dancing,23.134364989,3
+mia,4.012233042,3
+trance,2.091483181,2
+kittens,4.588458,0
+scotland,1.87806653,0
+snow,8.259224401,3
+dressing up,1.088424921,0
+comics,4.695166326,0
+animation,1.00305826,0
+chess,0.789641609,0
+franz ferdinand,1.237816576,1
+rage against the machine,1.344524902,1
+shiny things,2.070141516,3
+switchfoot,2.326241498,1
+jpop,0.896349935,0
+eddie izzard,2.048799851,0
+blades,4.012233042,3
+firefly,3.073199777,0
+roleplaying,2.262216502,0
+converse,2.646366474,1
+pain,17.180040421,3
+theatre,6.317132875,0
+scifi,0.298783311,0
+sewing,4.887241312,0
+dexter,2.667708139,0
+wumpscut,0.875008269,2
+insanity,5.100657963,2
+comedy central,0.789641609,1
+bdsm,6.402499535,2
+lust,3.777474726,3
+sugarcult,3.265274763,1
+germany,1.984774856,0
+horror movies,6.167741219,2
+crochet,1.088424921,0
+stabbing westward,1.536599888,1
+portishead,1.429891562,2
+hello kitty,6.082374559,3
+wolves,3.243933098,0
+story of the year,3.371983088,1
+angst,1.942091525,2
+michelle branch,1.237816576,1
+social distortion,1.451233228,1
+metal,9.326307657,2
+the faint,1.088424921,1
+rancid,3.756133061,1
+slipknot,6.167741219,1
+true blood,1.942091525,0
+strawberries,2.582341479,3
+skittles,0.896349935,1
+thunder,1.685991544,3
+janis joplin,1.259158242,2
+skinny,4.204308028,3
+manga,10.222657592,0
+physics,1.557941553,0
+marching band,1.259158242,3
+masturbation,1.600624883,2
+stephen king,4.118941368,2
+good charlotte,3.798816391,1
+walking,5.612857926,3
+hoodies,3.948208047,3
+punk,11.311082513,1
+lyrics,5.868957907,3
+sleeping in,1.216474911,3
+morrissey,1.600624883,2
+yeah yeah yeahs,1.664649879,1
+kill hannah,1.365866567,1
+queen,3.030516446,1
+boys,11.012299201,3
+zombies,4.695166326,2
+hugging,2.326241498,3
+peaches,0.768299944,1
+black metal,1.131108251,2
+nine inch nails,7.597632782,1
+musicals,6.082374559,0
+peter pan,1.152449916,0
+queer,1.621966549,0
+sum 41,2.262216502,1
+straylight run,1.301841572,1
+meeting new people,1.365866567,3
+tsunami bomb,1.024399925,1
+queer as folk,2.454291488,2
+sunsets,3.841499721,3
+coloring,1.685991544,3
+knowledge,1.237816576,0
+dane cook,1.109766586,1
+emo boys,1.408549897,1
+veronica mars,1.280499907,0
+storms,4.375041349,3
+ocd,3.436008084,3
+sugar,1.451233228,3
+alkaline trio,4.375041349,1
+spirituality,3.820158056,0
+bush,1.04574159,1
+jim morrison,0.853666604,1
+black,14.213548969,3
+hockey,2.091483181,3
+the notebook,1.152449916,1
+piano,8.13117441,0
+sex pistols,2.7530748,1
+androgyny,2.774416465,0
+tori amos,6.253107879,2
+hope,3.329299758,3
+american history x,1.515258223,1
+photographs,1.344524902,3
+rainy days,2.112824846,3
+beatles,1.8353832,1
+sunglasses,1.579283218,3
+eating disorder,1.899408195,3
+randomness,2.966491451,3
+new york city,2.881124791,3
+photography,39.844888777,0
+jazz,3.329299758,0
+stripes,1.515258223,3
+trees,3.884183051,0
+roadtrips,0.533541627,3
+dashboard confessional,6.594574521,1
+listening to music,3.71344973,0
+avenged sevenfold,2.966491451,1
+procrastination,1.942091525,0
+bracelets,4.737849656,3
+watching movies,1.664649879,3
+mxpx,2.198191507,1
+him,4.993949637,1
+jokes,0.875008269,3
+purses,1.109766586,3
+beads,1.579283218,3
+lostprophets,0.981716595,1
+motorcycles,1.216474911,0
+leather,2.390266493,2
+steampunk,1.387208232,0
+emo,8.472641052,1
+passion,3.073199777,3
+ghost world,1.237816576,1
+spiders,1.408549897,2
+perfume,1.109766586,3
+pro-choice,3.371983088,0
+penguins,2.560999814,3
+architecture,0.533541627,0
+witches,1.259158242,2
+from first to last,1.429891562,1
+anti-flag,1.814041535,1
+neil gaiman,2.689049805,0
+playstation,0.96037493,0
+beethoven,0.939033265,0
+art,42.171130275,0
+honesty,4.289674688,0
+tattoos,31.457614385,3
+intelligence,3.094541442,0
+311,1.451233228,1
+sigur ros,1.109766586,2
+house md,1.814041535,0
+digital art,1.067083255,0
+culture,1.8353832,0
+my chemical romance,10.79888255,1
+computer,1.664649879,3
+college,2.987833116,3
+panic! at the disco,1.87806653,1
+bruises,2.411608158,3
+skateboarding,2.902466456,1
+alanis morissette,0.875008269,1
+operation ivy,0.875008269,1
+pillows,1.579283218,3
+skulls,1.643308214,3
+holding hands,2.966491451,3
+mascara,1.109766586,3
+smallville,1.323183237,0
+warped tour,0.939033265,1
+cosplay,1.899408195,0
+spirits,1.280499907,2
+camping,4.567116335,0
+boys night out,0.725616614,1
+pictures,9.04886601,3
+tegan and sara,2.454291488,2
+rings,2.112824846,3
+demons,1.600624883,2
+birds,1.493916558,0
+colours,0.939033265,3
+thongs,0.789641609,3
+supernatural,4.695166326,0
+hiking,3.756133061,0
+pets,2.219533172,0
+ramones,0.981716595,1
+stories,2.283558167,0
+staind,3.243933098,1
+greenday,1.685991544,1
+europe,2.454291488,0
+bettie page,2.006116521,2
+crayons,2.112824846,3
+makeup,7.149457814,3
+oscar wilde,1.621966549,0
+anti-bush,1.067083255,3
+chapstick,1.195133246,3
+snowboarding,3.606741405,3
+sharpies,2.134166511,3
+foo fighters,2.070141516,1
+peircings,1.856724865,3
+guitar,9.92387428,3
+garden state,1.771358204,1
+cut,2.262216502,3
+pearl jam,1.408549897,1
+pepsi,1.00305826,3
+modeling,1.771358204,3
+understanding,1.621966549,0
+red hot chilli peppers,0.682933283,1
+dimmu borgir,1.216474911,1
+perfection,4.695166326,3
+lotr,1.579283218,0
+heroes,2.603683144,0
+a clockwork orange,2.390266493,2
+silent hill,1.429891562,0
+black sabbath,1.280499907,1
+daria,2.625024809,2
+jhonen vasquez,2.411608158,2
+terry pratchett,1.451233228,0
+country,1.515258223,1
+grey's anatomy,2.198191507,0
+hot pink,0.661591618,1
+kmfdm,1.429891562,2
+douglas adams,1.173791581,0
+mental illness,4.929924642,0
+games,2.859783125,3
+affection,1.237816576,3
+kill bill,1.195133246,2
+no doubt,3.307958093,1
+switchblade symphony,1.685991544,2
+drugs,8.899474354,3
+placebo,6.210424549,1
+daydreaming,4.63114133,3
+peanut butter,0.704274948,3
+self mutilation,6.807991173,3
+red dwarf,0.853666604,0
+skating,1.259158242,3
+pirates of the carribean,0.469516632,0
+bob dylan,2.198191507,2
+pot,2.368924828,3
+unicorns,2.240874837,2
+jeans,1.344524902,3
+paranormal,2.689049805,0
+pop,1.664649879,0
+christina aguilera,1.429891562,1
+the princess bride,1.323183237,2
+alone,2.368924828,3
+homosexuality,1.8353832,2
+rpg,0.725616614,0
+church,1.173791581,3
+italian food,0.618908288,3
+poe,1.493916558,2
+underworld,1.429891562,2
+the crow,3.243933098,2
+puppies,2.7530748,3
+jimi hendrix,1.515258223,1
+acceptance,1.707333209,2
+creativity,5.954324568,0
+duct tape,1.96343319,3
+star trek,3.115883107,0
+pink floyd,5.719566251,1
+beer,2.731733135,3
+high heels,1.451233228,3
+christmas,2.326241498,3
+ireland,3.521374744,0
+boston,2.134166511,3
+industrial music,0.768299944,2
+naruto,1.728674874,0
+jackass,1.280499907,1
+thrice,3.521374744,1
+lesbians,4.972607972,2
+poison the well,1.323183237,1
+life,8.515324382,3
+shopping,13.722690671,3
+crying,8.323249396,3
+gay,2.582341479,2
+fight club,5.42078294,2
+pixies,1.408549897,2
+sunshine,2.091483181,3
+dead kennedys,1.515258223,1
+hellogoodbye,0.875008269,1
+disney,4.63114133,0
+jack johnson,1.280499907,1
+classical music,2.625024809,0
+bible,0.661591618,3
+folklore,0.896349935,0
+graphics,2.411608158,3
+smoking,5.847616242,3
+comic books,1.685991544,0
+ac/dc,1.00305826,1
+skinny puppy,1.451233228,2
+scary movies,1.8353832,3
+plants,0.725616614,0
+x-men,1.728674874,0
+final fantasy,4.076258037,0
+turtles,1.195133246,0
+lady gaga,2.006116521,0
+spiderman,0.853666604,1
+orgasms,1.237816576,2
+vanilla,1.323183237,3
+battlestar galactica,0.768299944,0
+sex,23.838639938,3
+nickelback,2.027458186,1
+air,1.088424921,2
+aim,4.225649693,3
+secrets,3.969549712,3
+sexuality,4.353699684,0
+massive attack,0.896349935,2
+less than jake,2.070141516,1
+calvin and hobbes,0.768299944,0
+pennywise,0.981716595,1
+fun,3.115883107,3
+kissing,12.463532429,3
+weezer,3.820158056,1
+mythology,7.533607787,0
+biking,3.115883107,3
+the clash,2.923808121,1
+skirts,1.899408195,3
+the l word,2.027458186,0
+rilo kiley,1.557941553,1
+florida,0.9176916,3
+hanging out,2.283558167,3
+sushi,5.676882921,0
+death note,1.707333209,0
+sleeping,22.814240012,3
+kelly clarkson,1.600624883,1
+norma jean,0.9176916,1
+something corporate,4.012233042,1
+gothic,4.140283033,2
+incense,3.798816391,2
+the who,1.750016539,1
+a static lullaby,1.387208232,1
+violin,2.240874837,0
+seattle,1.131108251,0
+technology,1.344524902,0
+flogging molly,1.728674874,1
+buffy the vampire slayer,4.652482996,0
+bikini kill,1.152449916,1
+showers,1.814041535,3
+italy,1.87806653,3
+sharp objects,2.646366474,3
+absinthe,1.152449916,2
+amélie,1.04574159,0
+kingdom hearts,1.750016539,0
+winter,5.591516261,3
+coke,1.472574893,3
+farscape,0.704274948,0
+law & order,0.682933283,1
+romance,7.341532801,3
+guns,2.048799851,2
+buddhism,2.582341479,0
+html,2.134166511,0
+photoshop,4.737849656,0
+babies,2.667708139,3
+80s,1.00305826,3
+david lynch,0.704274948,2
+stickers,2.625024809,3
+world of warcraft,2.518316484,0
+mexican food,0.853666604,3
+yaoi,3.777474726,0
+everclear,1.451233228,1
+baking,3.926866381,0
+conor oberst,1.301841572,1
+literature,9.219599331,0
+knitting,3.692108065,0
+ewan mcgregor,1.301841572,2
+black and white photography,1.771358204,3
+kurt cobain,4.311016354,1
+napoleon dynamite,0.875008269,1
+rent,4.076258037,0
+rain,19.591648579,3
+holidays,1.131108251,3
+running,8.664716038,3
+fruit,1.280499907,0
+novels,1.750016539,0
+blue eyes,1.067083255,3
+vampires,16.26234882,2
+the shins,1.472574893,1
+safety pins,2.902466456,3
+celtic,1.472574893,2
+dance dance revolution,1.195133246,2
+thrift stores,4.439066344,2
+dying,3.564058074,3
+glitter,7.853732763,3
+bondage,7.789707768,2
+opeth,1.173791581,2
+fighting,1.024399925,2
+ocean,2.070141516,3
+werewolves,1.942091525,0
+rufus wainwright,0.746958279,2
+english,2.560999814,0
+hearts,2.006116521,3
+flirting,3.201249767,3
+chemistry,1.600624883,0
+computer games,1.408549897,0
+drawing,29.003322897,0
+my boyfriend,1.600624883,3
+masochism,2.689049805,2
+sims,0.704274948,3
+dieting,3.6707664,3
+money,4.716507991,3
+johnny depp,9.454357647,1
+gossip girl,1.750016539,0
+zelda,0.939033265,0
+quotes,3.457349749,3
+francesca lia block,1.280499907,2
+futurama,2.646366474,2
+fishing,0.981716595,3
+conan o'brien,0.832324939,1
+mozart,0.939033265,0
+ps2,1.04574159,0
+alternative,3.692108065,1
+guys,5.46346627,3
+cartoons,6.253107879,2
+happiness,4.076258037,3
+procrastinating,1.173791581,0
+ani difranco,3.905524716,2
+raves,1.942091525,3
+death,16.305032151,3
+veganism,2.475633153,0
+fanfic,1.00305826,0
+roses,5.057974633,3
+thinking,4.908582977,3
+edward norton,0.768299944,1
+exercising,1.856724865,3
+hippies,1.96343319,0
+egypt,0.896349935,0
+cherries,1.067083255,3
+ska,2.79575813,1
+serial killers,4.524433005,2
+dir en grey,2.240874837,0
+edward scissorhands,2.7530748,1
+real world,0.661591618,1
+xbox,0.512199962,3
+senses fail,3.393324753,1
+elves,1.750016539,0
+breaking benjamin,2.304899832,1
+mystery,0.9176916,0
+australia,1.344524902,3
+dancing in the rain,1.387208232,3
+fire,10.628149229,3
+ninjas,0.9176916,2
+boondock saints,1.323183237,2
+dvds,4.737849656,3
+sandman,1.259158242,0
+rollerblading,0.597566623,0
+dark,2.176849842,3
+lord of the rings,7.25616614,0
+adema,1.00305826,1
+fasting,4.375041349,3
+body modification,6.125057889,2
+listening,1.579283218,3
+rock music,3.009174781,3
+grammar,1.387208232,0
+chobits,1.259158242,0
+blankets,1.152449916,3
+wings,2.326241498,2
+dreams,14.170865639,3
+martial arts,2.326241498,0
+motion city soundtrack,1.536599888,1
+guns n roses,1.04574159,1
+lost,3.990891377,0
+submission,2.006116521,2
+matchbook romance,2.006116521,1
+yellowcard,3.926866381,1
+the doors,3.478691414,1
+anthropology,1.451233228,0
+candy,5.079316298,3
+tom waits,0.875008269,0
+cynicism,1.365866567,0
+deftones,3.009174781,1
+playing guitar,1.387208232,1
+pagan,2.091483181,2
+pretty girls make graves,0.896349935,1
+third eye blind,1.237816576,1
+night,7.21348281,3
+nick cave,0.939033265,2
+interpol,1.451233228,1
+cradle of filth,3.158566437,1
+my little pony,1.131108251,2
+sparkles,1.536599888,3
+gardening,1.600624883,0
+learning,5.100657963,0
+spongebob,1.493916558,3
+witchcraft,3.969549712,2
+fucking,2.048799851,3
+journalism,1.621966549,3
+linux,0.768299944,0
+phone,0.704274948,3
+japanese,2.945149786,0
+tarot,3.329299758,0
+clubs,1.600624883,3
+draco malfoy,1.472574893,0
+gymnastics,1.451233228,3
+irony,0.96037493,0
+recovery,4.182966363,3
+san francisco,0.789641609,0
+radiohead,5.548832931,1
+lightning,2.817099795,3
+kevin smith,1.856724865,2
+fruits basket,0.875008269,0
+tarot cards,1.536599888,2
+trust,1.707333209,3
+chinese food,2.240874837,3
+jewelry,2.198191507,3
+purple,5.143341293,3
+memories,2.689049805,3
+ducks,1.109766586,3
+handcuffs,2.987833116,3
+sketching,2.667708139,0
+ice,1.451233228,3
+moon,3.073199777,3
+religion,4.780532986,0
+the used,10.201315927,1
+shakespeare,5.057974633,0
+slash,5.954324568,0
+cheesecake,0.640249953,3
+drag queens,1.067083255,2
+icp,1.216474911,1
+chains,2.390266493,3
+alan rickman,1.131108251,0
+ville valo,1.429891562,1
+laughing,11.225715852,3
+dresden dolls,1.984774856,2
+biology,2.902466456,0
+flute,1.685991544,3
+eating,3.990891377,3
+truth,2.987833116,0
+the strokes,1.536599888,1
+moshing,1.152449916,1
+writing,63.363403739,0
+rock,12.314140773,1
+papa roach,2.625024809,1
+robots,0.576224958,0
+six feet under,1.8353832,2
+aerosmith,1.771358204,1
+amy lee,2.539658149,1
+best friends,0.682933283,3
+drums,2.646366474,3
+pasta,1.00305826,3
+naps,1.280499907,3
+erotica,2.731733135,2
+glass,1.00305826,3
+journaling,2.155508177,0
+invader zim,5.548832931,2
+d&d,0.746958279,0
+ddr,2.006116521,2
+goldfinger,0.939033265,1
+freedom,3.777474726,0
+violence,2.347583163,3
+words,3.606741405,0
+three days grace,3.969549712,1
+the juliana theory,1.579283218,1
+concerts,12.54889909,3
+slayer,1.536599888,1
+feminism,6.253107879,0
+blood brothers,0.490858297,1
+anime,17.905657035,0
+trainspotting,1.600624883,2
+folk music,0.96037493,0
+hot hot heat,1.96343319,1
+les miserables,1.237816576,0
+silence,3.265274763,3
+swimming,13.039757387,3
+3 doors down,1.344524902,1
+american eagle,0.640249953,3
+garbage,3.969549712,1
+dropkick murphys,1.067083255,1
+tinkerbell,1.109766586,3
+aliens,1.387208232,2
+socks,2.326241498,3
+snuggling,1.664649879,3
+rammstein,3.478691414,2
+equality,1.707333209,0
+magazines,1.87806653,3
+mountain dew,1.515258223,3
+hair dye,7.021407824,3
+parties,3.884183051,3
+partying,2.881124791,3
+paganism,4.865899647,0
+sports,2.304899832,3
+oral sex,1.259158242,2
+libraries,1.8353832,0
+otep,2.625024809,1
+pirates,4.737849656,2
+astronomy,3.201249767,0
+gir,1.493916558,2
+theology,1.067083255,0
+working out,4.396383014,3
+tennis,2.283558167,3
+u2,1.728674874,1
+dreaming,7.789707768,3
+burning,4.716507991,3
+cats,23.326439975,0
+stars,17.96968203,3
+spring,1.600624883,3
+music,83.659327268,3
+dolphins,0.768299944,3
+frank sinatra,1.088424921,1
+cowboy bebop,1.942091525,0
+the early november,1.536599888,1
+mountains,1.429891562,0
+seether,2.496974818,1
+razors,9.04886601,3
+msi,1.195133246,1
+chatting,2.859783125,3
+taco bell,1.195133246,3
+batman,2.454291488,0
+joss whedon,0.96037493,0
+fireworks,0.533541627,3
+rollercoasters,1.024399925,3
+eyeliner,10.00924094,3
+fiona apple,4.695166326,1
+glamour,0.981716595,3
+counting crows,1.408549897,1
+type o negative,1.408549897,2
+needles,2.347583163,3
+gore,2.945149786,2
+criminal minds,1.87806653,0
+goo goo dolls,2.646366474,1
+neutral milk hotel,0.939033265,2
+viva la bam,1.280499907,1
+from autumn to ashes,2.774416465,1
+football,2.475633153,3
+charmed,2.219533172,0
+digital photography,0.939033265,2
+dorks,1.344524902,3
+gay rights,4.929924642,0
+reading,60.03410398,0
+jrock,1.643308214,0
+tenacious d,0.789641609,1
+jimmy eat world,4.054916372,1
+mtv,1.323183237,3
+mudvayne,2.326241498,1
+vnv nation,1.237816576,2
+sadness,3.371983088,3
+s&m,1.96343319,2
+japan,5.975666233,0
+borderline personality disorder,5.186024624,2
+cake,1.600624883,2
+depeche mode,2.347583163,2
+loving,0.939033265,3
+animal rights,4.695166326,0
+nerds,1.771358204,0
+nature,9.411674317,0
+castles,1.00305826,0
+individuality,2.091483181,0
+cuddles,1.451233228,3
+velvet goldmine,1.216474911,2
+cinema,1.344524902,0
+nighttime,1.216474911,3
+accents,2.326241498,3
+nightmares,2.304899832,2
+buffy,2.689049805,0
+monty python,4.076258037,0
+imagination,2.923808121,0
+family guy,7.469582791,1
+silverchair,3.457349749,1
+cds,2.390266493,3
+bats,1.472574893,2
+politics,6.530549526,0
+education,1.472574893,0
+zines,1.344524902,0
+vans,0.896349935,1
+film,3.201249767,0
+american beauty,1.79269987,2
+marilyn monroe,3.179908102,2
+the cure,7.875074429,1
+smiling,2.283558167,3
+further seems forever,1.451233228,1
+yoga,5.335416279,0
+tim burton,6.765307842,2
+nightwish,2.774416465,0
+edgar allan poe,2.262216502,2
+will & grace,0.704274948,1
+peace,6.061032893,0
+swords,2.582341479,0
+forests,2.283558167,0
+aphex twin,0.704274948,2
+pills,6.103716224,3
+digital cameras,1.365866567,3
+davey havok,0.939033265,1
+as i lay dying,1.515258223,1
+john mayer,1.600624883,1
+the get up kids,1.451233228,1
+postal service,0.469516632,1
+finch,3.58539974,1
+mathematics,0.810983274,0
+you,2.859783125,3
+lifehouse,1.152449916,1
+shows,2.048799851,3
+johnny cash,2.027458186,2
+costumes,1.387208232,0
+smiles,2.432949823,3
+korn,6.189082884,1
+david bowie,4.567116335,2
+brand new,5.932982903,1
+lollipops,1.088424921,3
+severus snape,1.344524902,0
+models,2.475633153,3
+jthm,1.557941553,2
+quentin tarantino,1.237816576,2
+razorblades,3.692108065,3
+hanson,1.131108251,1
+herbs,1.195133246,0
+30 seconds to mars,1.984774856,1
+sociology,3.030516446,0
+rasputina,2.646366474,2
+hawthorne heights,2.176849842,1
+lips,1.87806653,3
+nintendo,2.347583163,0
+occult,1.451233228,0
+posters,1.152449916,3
+hair,3.926866381,3
+hurt,3.115883107,3
+friends,30.39053113,3
+carebears,1.259158242,3
+pool,0.981716595,3
+psychology,26.01548978,0
+alice in wonderland,5.612857926,2
+driving,5.826274577,3
+a perfect circle,5.164682958,1
+dogma,1.237816576,1
+cky,1.323183237,1
+the vines,0.768299944,1
+jewel,1.237816576,1
+photos,2.283558167,3
+hanging out with friends,1.323183237,1
+moonlight,1.472574893,0
+that 70's show,0.853666604,1
+karma,1.067083255,0
+god,4.375041349,3
+dave matthews band,0.896349935,1
+they might be giants,0.810983274,2
+thunderstorms,5.954324568,3
