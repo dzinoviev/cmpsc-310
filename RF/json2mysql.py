@@ -20,6 +20,6 @@ for f in glob.glob ('2008-KZ-*.json'):
  
 cur.execute ("SELECT type,COUNT(*) AS cnt FROM rf_entities GROUP BY type ORDER BY cnt DESC LIMIT 10")
 
-print ("#Type|Count")
+print ("#Type,Count")
 for (t, count) in cur.fetchall ():
-    print (t, count, sep = '|')
+    print (t, count, sep = ',')
