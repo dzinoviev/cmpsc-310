@@ -13,21 +13,24 @@ print ("Correlation:", corr, "P-value:", pvalue)
 avg = df.mean ()
 std = df.std ()
 
-df.plot (style = "ro", legend = False)
+df.plot (style = "ro-", legend = False, fontsize = 11)
 plot.hlines (np.array ([-1, 0, 1]) * std[0] + avg[0],
              df.index.min (), 
              df.index.max (),
              colors = ["green", "blue", "green"],
              linestyles = ['dashed', 'solid', 'dashed'])
 plot.xticks (np.arange (12) * 365 / 7 / 12, calendar.month_name[1:], 
-             rotation = 35)
+             rotation = 30)
 plot.xlabel ("")
 plot.ylabel ("# of NSSI posts")
 plot.title ("Unhappiness Index")
 
-subplot = plot.axes ([.2, .2, .3, .3])
+plot.annotate (s = "rho=%.3f" % corr, xy = (35, 700))
+plot.annotate (s = "p-value=%.3f" % pvalue, xy = (35, 650))
+
+subplot = plot.axes ([.25, .2, .3, .25])
 df.plot (kind = "hist", ax = subplot, legend = False, fontsize = 10,
-         title = "# of Posts", bins = 20)
+         title = "Posts", bins = 20, orientation = "horizontal")
 
 # plot.tight_layout ()
 plot.savefig ("unhappiness.png")
