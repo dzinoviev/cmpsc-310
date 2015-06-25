@@ -13,6 +13,7 @@ print ("Correlation:", corr, "P-value:", pvalue)
 avg = df.mean ()
 std = df.std ()
 
+plot.xkcd ()
 df.plot (style = "ro-", legend = False, fontsize = 11)
 plot.hlines (np.array ([-1, 0, 1]) * std[0] + avg[0],
              df.index.min (), 
